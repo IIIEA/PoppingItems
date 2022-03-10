@@ -1,0 +1,74 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Item
+  - ExplosionZone
+  - Cloud
+  - Touchable
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Background 3
+    uniqueID: 1693897185
+    locked: 0
+  - name: Background 2
+    uniqueID: 54713661
+    locked: 0
+  - name: Background 1
+    uniqueID: 3197359999
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Interactible
+    uniqueID: 3992548239
+    locked: 0
+  - name: Foreground 3
+    uniqueID: 327434823
+    locked: 0
+  - name: Foreground 2
+    uniqueID: 639909229
+    locked: 0
+  - name: Foreground 1
+    uniqueID: 1470277339
+    locked: 0
+  - name: UI Layer
+    uniqueID: 2573433663
+    locked: 0
+  - name: Over All
+    uniqueID: 3470912757
+    locked: 0

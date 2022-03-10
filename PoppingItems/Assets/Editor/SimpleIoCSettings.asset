@@ -1,0 +1,76 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 612b903d753a4d00980862b088984eb0, type: 3}
+  m_Name: SimpleIoCSettings
+  m_EditorClassIdentifier: 
+  ExcludeAsms:
+  - Unity.2D.Animation.Editor.dll
+  - Unity.2D.Animation.Runtime.dll
+  - Unity.2D.Animation.Triangle.Runtime.dll
+  - Unity.2D.Common.Editor.dll
+  - Unity.2D.Common.Runtime.dll
+  - Unity.2D.IK.Editor.dll
+  - Unity.2D.IK.Runtime.dll
+  - Unity.2D.Path.Editor.dll
+  - Unity.2D.Sprite.Editor.dll
+  - Unity.2D.SpriteShape.Editor.dll
+  - Unity.2D.SpriteShape.Runtime.dll
+  - Unity.2D.Tilemap.Editor.dll
+  - Unity.Addressables.dll
+  - Unity.Addressables.Editor.dll
+  - Unity.CollabProxy.Editor.dll
+  - Unity.DeviceSimulator.Editor.dll
+  - Unity.InternalAPIEditorBridge.001.dll
+  - Unity.InternalAPIEditorBridge.003.dll
+  - Unity.InternalAPIEngineBridge.001.dll
+  - Unity.InternalAPIEngineBridge.003.dll
+  - Unity.Mathematics.dll
+  - Unity.Mathematics.Editor.dll
+  - Unity.PlasticSCM.Editor.dll
+  - Unity.ResourceManager.dll
+  - Unity.Rider.Editor.dll
+  - Unity.ScriptableBuildPipeline.dll
+  - Unity.ScriptableBuildPipeline.Editor.dll
+  - Unity.TextMeshPro.dll
+  - Unity.TextMeshPro.Editor.dll
+  - Unity.Timeline.dll
+  - Unity.Timeline.Editor.dll
+  - Unity.VectorGraphics.dll
+  - Unity.VectorGraphics.Editor.dll
+  - Unity.VisualStudio.Editor.dll
+  - Unity.VSCode.Editor.dll
+  - UnityEditor.CacheServer.dll
+  - UnityEditor.Purchasing.dll
+  - UnityEditor.TestRunner.dll
+  - UnityEditor.UI.dll
+  - UnityEngine.Purchasing.AppleCore.dll
+  - UnityEngine.Purchasing.AppleMacosStub.dll
+  - UnityEngine.Purchasing.AppleStub.dll
+  - UnityEngine.Purchasing.Codeless.dll
+  - UnityEngine.Purchasing.dll
+  - UnityEngine.Purchasing.SecurityCore.dll
+  - UnityEngine.Purchasing.SecurityStub.dll
+  - UnityEngine.Purchasing.Stores.dll
+  - UnityEngine.Purchasing.WinRTCore.dll
+  - UnityEngine.Purchasing.WinRTStub.dll
+  - UnityEngine.TestRunner.dll
+  - UnityEngine.UI.dll
+  - Sirenix.OdinInspector.CompatibilityLayer.dll
+  - Sirenix.OdinInspector.CompatibilityLayer.Editor.dll
+  - Sirenix.OdinInspector.Modules.UnityMathematics.dll
+  - Sirenix.OdinValidator.dll
+  - UniTask.Addressables.dll
+  - UniTask.dll
+  - UniTask.DOTween.dll
+  - UniTask.Editor.dll
+  - UniTask.Linq.dll
+  - UniTask.TextMeshPro.dll

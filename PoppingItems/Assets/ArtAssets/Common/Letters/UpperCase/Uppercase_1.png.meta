@@ -1,0 +1,727 @@
+fileFormatVersion: 2
+guid: bc45476e194efb74880bb8c3d5a116d3
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -2656530620286714061
+    second: Y_Uppercase
+  - first:
+      213: -4022892432282099640
+    second: J_Uppercase
+  - first:
+      213: -2504328290982729884
+    second: T_Uppercase
+  - first:
+      213: -4516125215375383245
+    second: L_Uppercase
+  - first:
+      213: 3989838567292536421
+    second: E_Uppercase
+  - first:
+      213: -2567739784832846027
+    second: F_Uppercase
+  - first:
+      213: 1546397343732199312
+    second: B_Uppercase
+  - first:
+      213: 7165981559815552339
+    second: P_Uppercase
+  - first:
+      213: 7658762868499757632
+    second: D_Uppercase
+  - first:
+      213: -4665809521000709242
+    second: R_Uppercase
+  - first:
+      213: 87617567377264067
+    second: U_Uppercase
+  - first:
+      213: -1824351160599533330
+    second: S_Uppercase
+  - first:
+      213: -3843956387527753574
+    second: Z_Uppercase
+  - first:
+      213: -2814326889073588984
+    second: W_Uppercase
+  - first:
+      213: -5004353429427080310
+    second: M_Uppercase
+  - first:
+      213: 6243359843887837518
+    second: O_Uppercase
+  - first:
+      213: 7343646890527703155
+    second: Q_Uppercase
+  - first:
+      213: 4715454739249114016
+    second: G_Uppercase
+  - first:
+      213: 3912210995915998985
+    second: H_Uppercase
+  - first:
+      213: 984671043626282402
+    second: K_Uppercase
+  - first:
+      213: -4152440001338899516
+    second: A_Uppercase
+  - first:
+      213: -8427006594125346899
+    second: V_Uppercase
+  - first:
+      213: -3091886125360362794
+    second: C_Uppercase
+  - first:
+      213: 1536005741533832286
+    second: X_Uppercase
+  - first:
+      213: 6048904673295045952
+    second: N_Uppercase
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 0
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Y_Uppercase
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 1621
+        width: 305
+        height: 412
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6836fcfd4ed0d2840a33bc720fac0d84
+      internalID: -2656530620286714061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: J_Uppercase
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 1621
+        width: 206
+        height: 416
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca8884788183b5f4383edd2311aa6a62
+      internalID: -4022892432282099640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: T_Uppercase
+      rect:
+        serializedVersion: 2
+        x: 542
+        y: 1621
+        width: 247
+        height: 413
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ba6afd092f5350419ae723647cff5e6
+      internalID: -2504328290982729884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: L_Uppercase
+      rect:
+        serializedVersion: 2
+        x: 803
+        y: 1622
+        width: 211
+        height: 412
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eff619d54c0556743a93c77abdee5091
+      internalID: -4516125215375383245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: E_Uppercase
+      rect:
+        serializedVersion: 2
+        x: 1027
+        y: 1621
+        width: 213
+        height: 413
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77b10ffbf592f1f43849ebe542218496
+      internalID: 3989838567292536421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: F_Uppercase
+      rect:
+        serializedVersion: 2
+        x: 1253
+        y: 1621
+        width: 219
+        height: 413
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33757b3d0aeebe24c933e882216b0f57
+      internalID: -2567739784832846027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: B_Uppercase
+      rect:
+        serializedVersion: 2
+        x: 1486
+        y: 1621
+        width: 273
+        height: 413
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40bd227a2f5886d47b903a05f95c10ea
+      internalID: 1546397343732199312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: P_Uppercase
+      rect:
+        serializedVersion: 2
+        x: 1773
+        y: 1621
+        width: 273
+        height: 413
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6fca7fcb6f769a848abf0cfceb73031e
+      internalID: 7165981559815552339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: D_Uppercase
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 1156
+        width: 333
+        height: 412
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65e911663b0eb3a4aae18174d6fc29c6
+      internalID: 7658762868499757632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: R_Uppercase
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 1156
+        width: 281
+        height: 412
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 563a8f65b2c61254f8c72b5fb8add853
+      internalID: -4665809521000709242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: U_Uppercase
+      rect:
+        serializedVersion: 2
+        x: 625
+        y: 1156
+        width: 313
+        height: 413
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54a05f99a9c7419499dd59f2bd3cdc10
+      internalID: 87617567377264067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: S_Uppercase
+      rect:
+        serializedVersion: 2
+        x: 941
+        y: 1156
+        width: 260
+        height: 420
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7eefd7c878e45b345b635128e73e1467
+      internalID: -1824351160599533330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Z_Uppercase
+      rect:
+        serializedVersion: 2
+        x: 1206
+        y: 1157
+        width: 309
+        height: 412
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09189022495719f47898c52e7ff1aba0
+      internalID: -3843956387527753574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: W_Uppercase
+      rect:
+        serializedVersion: 2
+        x: 1520
+        y: 1157
+        width: 525
+        height: 412
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4e93ac8db86a1648b7e61175148cade
+      internalID: -2814326889073588984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: M_Uppercase
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 685
+        width: 441
+        height: 412
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0adbf5da76a228d4ea4c541c8d9b374e
+      internalID: -5004353429427080310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: O_Uppercase
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 685
+        width: 412
+        height: 412
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03426b6cbfa739b4e9e4f67816734e3d
+      internalID: 6243359843887837518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Q_Uppercase
+      rect:
+        serializedVersion: 2
+        x: 891
+        y: 685
+        width: 413
+        height: 412
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c3eb05d3a314e849978c71403931cbc
+      internalID: 7343646890527703155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: G_Uppercase
+      rect:
+        serializedVersion: 2
+        x: 1321
+        y: 685
+        width: 387
+        height: 412
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b75a87ba00eea44b84c68f72fc93356
+      internalID: 4715454739249114016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: H_Uppercase
+      rect:
+        serializedVersion: 2
+        x: 1724
+        y: 685
+        width: 318
+        height: 412
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f37ec6b180b57364fa7b9818a7013c14
+      internalID: 3912210995915998985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: K_Uppercase
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 197
+        width: 300
+        height: 415
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb8a762c4a8280041a57db29bb48bdab
+      internalID: 984671043626282402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: A_Uppercase
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 196
+        width: 359
+        height: 413
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 242456c68ad64af4c9ceeb28c3d955ea
+      internalID: -4152440001338899516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: V_Uppercase
+      rect:
+        serializedVersion: 2
+        x: 681
+        y: 197
+        width: 360
+        height: 412
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f19c04b1d5182a44a59697d9245fda3
+      internalID: -8427006594125346899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: C_Uppercase
+      rect:
+        serializedVersion: 2
+        x: 1048
+        y: 196
+        width: 303
+        height: 413
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8ee7b90e47a4d34f863a58b9f572e37
+      internalID: -3091886125360362794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: X_Uppercase
+      rect:
+        serializedVersion: 2
+        x: 1357
+        y: 196
+        width: 323
+        height: 413
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e36d66a3a79791949a4c9e4c4e088416
+      internalID: 1536005741533832286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: N_Uppercase
+      rect:
+        serializedVersion: 2
+        x: 1686
+        y: 197
+        width: 353
+        height: 412
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 381422ff1ab57c047b656675834306fc
+      internalID: 6048904673295045952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

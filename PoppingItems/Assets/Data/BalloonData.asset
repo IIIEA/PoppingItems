@@ -1,0 +1,42 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4f0b73a49fb63e94993e498221e71cbb, type: 3}
+  m_Name: BalloonData
+  m_EditorClassIdentifier: 
+  _colors:
+  - _colorName: red
+    _bodyColor: {r: 0.9811321, g: 0, b: 0, a: 1}
+    _tailColor: {r: 0.8301887, g: 0.035243843, b: 0.035243843, a: 1}
+  - _colorName: green
+    _bodyColor: {r: 0, g: 1, b: 0.03938818, a: 1}
+    _tailColor: {r: 0.018912422, g: 0.8018868, b: 0.04961739, a: 1}
+  - _colorName: blue
+    _bodyColor: {r: 0, g: 0.20422697, b: 1, a: 1}
+    _tailColor: {r: 0, g: 0.1500553, b: 0.735849, a: 1}
+  - _colorName: yellow
+    _bodyColor: {r: 1, g: 0.85633945, b: 0, a: 1}
+    _tailColor: {r: 0.764151, g: 0.65327424, b: 0, a: 1}
+  - _colorName: purple
+    _bodyColor: {r: 1, g: 0, b: 0.8835707, a: 1}
+    _tailColor: {r: 0.7075472, g: 0, b: 0.62430626, a: 1}
+  _numbers:
+  - 1
+  - 2
+  - 3
+  - 4
+  - 5
+  - 6
+  - 7
+  - 8
+  - 9
+  - 0
+  - 

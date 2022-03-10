@@ -1,0 +1,799 @@
+fileFormatVersion: 2
+guid: 9f19e26437247084482ff4d530c11c7d
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -3931588572392570766
+    second: SearchingNumbers_Winter_Crone
+  - first:
+      213: 1859122412823362806
+    second: SearchingNumbers_Winter_Lamp
+  - first:
+      213: -8776997001037378226
+    second: SearchingNumbers_Winter_Circle
+  - first:
+      213: 8631313923714081702
+    second: SearchingNumbers_Winter_Lamp_Light
+  - first:
+      213: -1436213936698904808
+    second: SearchingNumbers_Winter_Flower_Det1
+  - first:
+      213: -1730149101934829088
+    second: SearchingNumbers_Winter_Star
+  - first:
+      213: 8975573120762204109
+    second: SearchingNumbers_Winter_Piramid
+  - first:
+      213: -1727970165493768813
+    second: SearchingNumbers_Winter_Tree_Texture
+  - first:
+      213: -2300894902945331139
+    second: SearchingNumbers_Winter_Lamp_Det1
+  - first:
+      213: -4946240385516813938
+    second: SearchingNumbers_Winter_Flower_Det2
+  - first:
+      213: 4622880524582992771
+    second: SearchingNumbers_Winter_Ball_Deral
+  - first:
+      213: -12300437924056035
+    second: SearchingNumbers_Winter_Flower_Main
+  - first:
+      213: -6614136587175187587
+    second: SearchingNumbers_Winter_12
+  - first:
+      213: -7921187008447790487
+    second: SearchingNumbers_Winter_Wheel_Half
+  - first:
+      213: 416040679391181568
+    second: SearchingNumbers_Winter_14
+  - first:
+      213: -4645510789471841319
+    second: SearchingNumbers_Winter_Flower_Det3
+  - first:
+      213: 7706766338448314916
+    second: SearchingNumbers_Winter_Castle
+  - first:
+      213: -562960323804958320
+    second: SearchingNumbers_Winter_Toy
+  - first:
+      213: -4867216187952986650
+    second: SearchingNumbers_Winter_Gift_Box
+  - first:
+      213: -2623443350927367549
+    second: SearchingNumbers_Winter_Tree_Toy1
+  - first:
+      213: -3498208542575900353
+    second: SearchingNumbers_Winter_Gift_Box2
+  - first:
+      213: -8346677429537412407
+    second: SearchingNumbers_Winter_Gift_Box3
+  - first:
+      213: 4784292501776237159
+    second: SearchingNumbers_Winter_Clouds
+  - first:
+      213: -3557356440906103254
+    second: SearchingNumbers_Winter_Bush1
+  - first:
+      213: -6243127747424522578
+    second: SearchingNumbers_Winter_Winter_Tree
+  - first:
+      213: 6324489914930927245
+    second: SearchingNumbers_Winter_Bush2
+  - first:
+      213: 9185750637271691408
+    second: SearchingNumbers_Winter_Bush3
+  - first:
+      213: -2394805054195891760
+    second: SearchingNumbers_Winter_2x2
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: SearchingNumbers_Winter_Crone
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 533
+        width: 512
+        height: 489
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4bd1dfe44cdeab94398ddeede9507d36
+      internalID: -3931588572392570766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SearchingNumbers_Winter_Lamp
+      rect:
+        serializedVersion: 2
+        x: 522
+        y: 783
+        width: 204
+        height: 236
+      alignment: 9
+      pivot: {x: 0.06366206, y: 0.006317397}
+      border: {x: 0, y: 10, z: 0, w: 223}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3babb03dffcb8944c94e83b837e63d9f
+      internalID: 1859122412823362806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SearchingNumbers_Winter_Circle
+      rect:
+        serializedVersion: 2
+        x: 733
+        y: 895
+        width: 125
+        height: 126
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 61, y: 61, z: 61, w: 61}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b66886560fb6554e92aebc5496bd628
+      internalID: -8776997001037378226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SearchingNumbers_Winter_Lamp_Light
+      rect:
+        serializedVersion: 2
+        x: 865
+        y: 898
+        width: 95
+        height: 121
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0faebbcf51642d248bbf291353ee4f18
+      internalID: 8631313923714081702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SearchingNumbers_Winter_Flower_Det1
+      rect:
+        serializedVersion: 2
+        x: 977
+        y: 878
+        width: 42
+        height: 141
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98247ca7e3407fc45860a2c37bc82198
+      internalID: -1436213936698904808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SearchingNumbers_Winter_Star
+      rect:
+        serializedVersion: 2
+        x: 732
+        y: 742
+        width: 156
+        height: 147
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12da66a1645ab2742b3074f64280ea97
+      internalID: -1730149101934829088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SearchingNumbers_Winter_Piramid
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 801
+        width: 84
+        height: 88
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cbddde5f7cf31104eb18d032652e08b3
+      internalID: 8975573120762204109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SearchingNumbers_Winter_Tree_Texture
+      rect:
+        serializedVersion: 2
+        x: 991
+        y: 805
+        width: 28
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 842b8393debe8be41ab87da93c12f31b
+      internalID: -1727970165493768813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SearchingNumbers_Winter_Lamp_Det1
+      rect:
+        serializedVersion: 2
+        x: 522
+        y: 584
+        width: 136
+        height: 194
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef65ff03cc274e74ca9f9b5205b44184
+      internalID: -2300894902945331139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SearchingNumbers_Winter_Flower_Det2
+      rect:
+        serializedVersion: 2
+        x: 669
+        y: 742
+        width: 57
+        height: 38
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53acdcf67ff42af4abad57f44b7f9d03
+      internalID: -4946240385516813938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SearchingNumbers_Winter_Ball_Deral
+      rect:
+        serializedVersion: 2
+        x: 952
+        y: 666
+        width: 59
+        height: 125
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de5dd7918fddd0d4d967b5f38b430026
+      internalID: 4622880524582992771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SearchingNumbers_Winter_Flower_Main
+      rect:
+        serializedVersion: 2
+        x: 669
+        y: 629
+        width: 99
+        height: 106
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f7f0a794091fc54bbb054f57aadcf31
+      internalID: -12300437924056035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SearchingNumbers_Winter_12
+      rect:
+        serializedVersion: 2
+        x: 773
+        y: 672
+        width: 173
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0196a1133f9e0084a87d68784a32328d
+      internalID: -6614136587175187587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SearchingNumbers_Winter_Wheel_Half
+      rect:
+        serializedVersion: 2
+        x: 673
+        y: 443
+        width: 89
+        height: 178
+      alignment: 9
+      pivot: {x: 0.99083376, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd19ac2dee72e3b41b805457364a2436
+      internalID: -7921187008447790487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SearchingNumbers_Winter_14
+      rect:
+        serializedVersion: 2
+        x: 773
+        y: 600
+        width: 172
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad34dc7a88be3c94bbc6c92fa2c73ca3
+      internalID: 416040679391181568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SearchingNumbers_Winter_Flower_Det3
+      rect:
+        serializedVersion: 2
+        x: 521
+        y: 530
+        width: 82
+        height: 49
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 899195ee08de1904e8e2e861a9ec1c99
+      internalID: -4645510789471841319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SearchingNumbers_Winter_Castle
+      rect:
+        serializedVersion: 2
+        x: 769
+        y: 387
+        width: 250
+        height: 211
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 7, z: 0, w: 202}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 593c04cadc4bff048bc1abf1a1d4c3bb
+      internalID: 7706766338448314916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SearchingNumbers_Winter_Toy
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 287
+        width: 145
+        height: 237
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4dd3824f4f8bb4548a9ee67c3f1d6599
+      internalID: -562960323804958320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SearchingNumbers_Winter_Gift_Box
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 343
+        width: 161
+        height: 181
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8fa10255a3752974ea516a7e571e639f
+      internalID: -4867216187952986650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SearchingNumbers_Winter_Tree_Toy1
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 399
+        width: 75
+        height: 125
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d9de1a5896800746ba8f6d84fdb0234
+      internalID: -2623443350927367549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SearchingNumbers_Winter_Gift_Box2
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 425
+        width: 63
+        height: 99
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67b6789dff3f0944693ea193a6e47ade
+      internalID: -3498208542575900353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SearchingNumbers_Winter_Gift_Box3
+      rect:
+        serializedVersion: 2
+        x: 482
+        y: 431
+        width: 79
+        height: 93
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8cb19887d5298f4fba2d760792e2c01
+      internalID: -8346677429537412407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SearchingNumbers_Winter_Clouds
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 155
+        width: 226
+        height: 121
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 575cf67d51513624199624ff4ad40716
+      internalID: 4784292501776237159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SearchingNumbers_Winter_Bush1
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 157
+        width: 294
+        height: 133
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bef552056dd44ba46b6cc4aded982595
+      internalID: -3557356440906103254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SearchingNumbers_Winter_Winter_Tree
+      rect:
+        serializedVersion: 2
+        x: 557
+        y: 3
+        width: 462
+        height: 347
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28a227e40e52421488eb87bd19fba981
+      internalID: -6243127747424522578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SearchingNumbers_Winter_Bush2
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 18
+        width: 242
+        height: 129
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec20cdfd9943d1a43ad40dc2f57b93ac
+      internalID: 6324489914930927245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SearchingNumbers_Winter_Bush3
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 13
+        width: 294
+        height: 133
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10423632856ddfd429fb61fa4cb442e6
+      internalID: 9185750637271691408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SearchingNumbers_Winter_2x2
+      rect:
+        serializedVersion: 2
+        x: 782
+        y: 396
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ea79fa06ed89064592b74c8eb1a5cb3
+      internalID: -2394805054195891760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

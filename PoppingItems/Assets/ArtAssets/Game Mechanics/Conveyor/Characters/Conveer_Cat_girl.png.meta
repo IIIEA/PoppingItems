@@ -1,0 +1,953 @@
+fileFormatVersion: 2
+guid: 81e86d5b8a9e13e4aa6f5270511fe238
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -1460902834913142712
+    second: LetterConveer_Cat_girl_Head
+  - first:
+      213: 870499446160389848
+    second: LetterConveer_Cat_girl_Head_stripe_C
+  - first:
+      213: 4731167527096644472
+    second: LetterConveer_Cat_girl_Head_stripe
+  - first:
+      213: -766504061580511328
+    second: LetterConveer_Cat_girl_Dress_part
+  - first:
+      213: -7311071377259408048
+    second: LetterConveer_Cat_girl_Dress
+  - first:
+      213: 1712147414024181845
+    second: LetterConveer_Cat_girl_Bow_part
+  - first:
+      213: -3640163735025593879
+    second: LetterConveer_Cat_girl_Lip_Confused
+  - first:
+      213: 8955921690788357130
+    second: LetterConveer_Cat_girl_Nose
+  - first:
+      213: 3657547471413514161
+    second: LetterConveer_Cat_girl_Arm_Hand
+  - first:
+      213: 3549178278270285234
+    second: LetterConveer_Cat_girl_Lip
+  - first:
+      213: -8288256593974645393
+    second: LetterConveer_Cat_girl_Mouth_Happy
+  - first:
+      213: -1397894016077617943
+    second: LetterConveer_Cat_girl_Mouth_Happy_tongue
+  - first:
+      213: -3616069475769254726
+    second: LetterConveer_Cat_girl_Eye_happy
+  - first:
+      213: 8765190673407812678
+    second: LetterConveer_Cat_girl_Ear
+  - first:
+      213: 3261885004098721073
+    second: LetterConveer_Cat_girl_Tail
+  - first:
+      213: -5552641384857626731
+    second: LetterConveer_Cat_girl_Arm
+  - first:
+      213: -1390585004290553306
+    second: LetterConveer_Cat_girl_Brow
+  - first:
+      213: -834454283771431512
+    second: LetterConveer_Cat_girl_Eyelid
+  - first:
+      213: -6268550661376023863
+    second: NumbersConveer_Cat_girl_Eye_Part
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: LetterConveer_Cat_girl_Head
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 155
+        width: 225
+        height: 354
+      alignment: 9
+      pivot: {x: 0.0005494573, y: 0.041397955}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe60ad7c081a7494882a651c217e3d54
+      internalID: -1460902834913142712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LetterConveer_Cat_girl_Head_stripe_C
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 477
+        width: 38
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 22, z: 0, w: 10}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7262c2ae1aec3db429960e3cd033e70f
+      internalID: 870499446160389848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LetterConveer_Cat_girl_Head_stripe
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 475
+        width: 37
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 22, z: 0, w: 11}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55a18f8d4a26562479ee864ee9b8a12b
+      internalID: 4731167527096644472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LetterConveer_Cat_girl_Dress_part
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 464
+        width: 19
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 9, y: 0, z: 9, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67653c19a34b67040ae69172f227c5b7
+      internalID: -766504061580511328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LetterConveer_Cat_girl_Dress
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 208
+        width: 159
+        height: 303
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b0d8b28dae9f154baa6ca995a358090
+      internalID: -7311071377259408048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LetterConveer_Cat_girl_Bow_part
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 380
+        width: 94
+        height: 92
+      alignment: 9
+      pivot: {x: 0.93974656, y: 0.53082114}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b36f9a4565f8aad4cb8d41bbc71a0aab
+      internalID: 1712147414024181845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LetterConveer_Cat_girl_Lip_Confused
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 418
+        width: 19
+        height: 42
+      alignment: 9
+      pivot: {x: 0.62488437, y: 0.83896965}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2b4e7aa4cf0bde42a247e908a8c7803
+      internalID: -3640163735025593879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LetterConveer_Cat_girl_Nose
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 326
+        width: 77
+        height: 52
+      alignment: 9
+      pivot: {x: 0.51161253, y: 0.2649941}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0608169bb03a4364fab9fc00b44e91ce
+      internalID: 8955921690788357130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LetterConveer_Cat_girl_Arm_Hand
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 333
+        width: 44
+        height: 45
+      alignment: 9
+      pivot: {x: 0.5066778, y: 0.94348484}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95550d11d81c71f43b516ee3a31a5432
+      internalID: 3657547471413514161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LetterConveer_Cat_girl_Lip
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 289
+        width: 59
+        height: 35
+      alignment: 9
+      pivot: {x: 0.90181565, y: 0.8775382}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4544cfcdc189fb74da9845fd95986e63
+      internalID: 3549178278270285234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LetterConveer_Cat_girl_Mouth_Happy
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 219
+        width: 90
+        height: 68
+      alignment: 9
+      pivot: {x: 0.5, y: 0.91128945}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3eb81e13fe919344aa0a68870067a5f6
+      internalID: -8288256593974645393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LetterConveer_Cat_girl_Mouth_Happy_tongue
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 170
+        width: 82
+        height: 43
+      alignment: 9
+      pivot: {x: 0.5016364, y: 0.80140686}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b7b450f808b98b41a58b880786c8641
+      internalID: -1397894016077617943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LetterConveer_Cat_girl_Eye_happy
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 159
+        width: 66
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a6a891b991c8a44b8ae10195017d44c
+      internalID: -3616069475769254726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LetterConveer_Cat_girl_Ear
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 14
+        width: 109
+        height: 186
+      alignment: 9
+      pivot: {x: 0.5062869, y: 0.2899978}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6174fbb53cbe209438696e257ac96ebe
+      internalID: 8765190673407812678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LetterConveer_Cat_girl_Tail
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 1
+        width: 258
+        height: 153
+      alignment: 9
+      pivot: {x: 0.92241585, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d701d033686146a4b8292ac329dc1288
+      internalID: 3261885004098721073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LetterConveer_Cat_girl_Arm
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 10
+        width: 64
+        height: 152
+      alignment: 9
+      pivot: {x: 0.49999955, y: 0.9030449}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones:
+      - name: bone_1
+        position: {x: 31.499481, y: 146.57414, z: 0}
+        rotation: {x: 0, y: 0, z: -0.70972085, w: 0.70448303}
+        length: 77.81367
+        parentId: -1
+      - name: bone_2
+        position: {x: 77.81367, y: 0.000013949342, z: 0}
+        rotation: {x: 0, y: 0, z: 0.021876134, w: 0.99976075}
+        length: 63.443928
+        parentId: 0
+      spriteID: 913c66ce01fbb09439e71a3183845c88
+      internalID: -5552641384857626731
+      vertices:
+      - {x: 52.129093, y: 5.118851}
+      - {x: 56.953854, y: 20.03776}
+      - {x: 60.947334, y: 34.256283}
+      - {x: 62.81766, y: 48.542046}
+      - {x: 63.536987, y: 63.673996}
+      - {x: 63.934998, y: 78.983}
+      - {x: 63.96399, y: 94.325}
+      - {x: 63.662994, y: 109.651}
+      - {x: 64, y: 125.41966}
+      - {x: 60.67158, y: 142.19366}
+      - {x: 49.71505, y: 152}
+      - {x: 33.133465, y: 151.54001}
+      - {x: 16.868937, y: 152}
+      - {x: 4.69993, y: 142.48335}
+      - {x: 0, y: 129.65935}
+      - {x: 0.07400513, y: 112.186005}
+      - {x: 0.032989502, y: 96.844}
+      - {x: 0.24301147, y: 81.509}
+      - {x: 0, y: 67.08472}
+      - {x: 0.49036217, y: 53.21967}
+      - {x: 1.71661, y: 38.740906}
+      - {x: 4.6256475, y: 23.957954}
+      - {x: 11.327781, y: 7.5201344}
+      - {x: 18.509127, y: 0.112661555}
+      - {x: 23.942816, y: 0.4830017}
+      - {x: 45, y: 0}
+      - {x: 41.513336, y: 39.615807}
+      - {x: 41.8284, y: 101.3574}
+      - {x: 25.926758, y: 131.69116}
+      - {x: 20.854218, y: 111.582436}
+      - {x: 42.01596, y: 121.747635}
+      - {x: 32.131348, y: 22.01463}
+      - {x: 22.073212, y: 68.752594}
+      - {x: 21.660095, y: 90.20627}
+      - {x: 23.923218, y: 46.03725}
+      - {x: 42.004944, y: 60.395966}
+      - {x: 42.49121, y: 80.840546}
+      indices: 2200000014000000130000001a0000002300000003000000190000001f0000000000000020000000240000002300000002000000010000001a00000003000000230000000400000003000000020000001a000000000000001f000000010000002400000004000000230000001b0000001e000000070000001e0000001b0000001d0000000a0000001e0000000b0000001e0000001c0000000b0000001e0000000a0000000900000006000000240000001b0000001b0000002400000021000000060000001b0000000700000009000000080000001e00000008000000070000001e0000000500000024000000060000001a0000002200000023000000180000001f00000019000000010000001f0000001a00000018000000160000001f000000130000001200000020000000150000001400000022000000160000001800000017000000130000002000000022000000150000001f0000001600000020000000210000002400000015000000220000001f0000002300000022000000200000001100000020000000120000000500000004000000240000001d000000100000000f0000001100000010000000210000001e0000001d0000001c0000001d0000000e0000001c0000000c0000001c0000000d0000001c0000000e0000000d0000000b0000001c0000000c000000210000001d0000001b00000021000000100000001d0000002100000020000000110000000f0000000e0000001d0000001f000000220000001a000000
+      edges:
+      - {x: 1, y: 0}
+      - {x: 2, y: 1}
+      - {x: 3, y: 2}
+      - {x: 4, y: 3}
+      - {x: 5, y: 4}
+      - {x: 6, y: 5}
+      - {x: 7, y: 6}
+      - {x: 8, y: 7}
+      - {x: 9, y: 8}
+      - {x: 10, y: 9}
+      - {x: 11, y: 10}
+      - {x: 12, y: 11}
+      - {x: 13, y: 12}
+      - {x: 14, y: 13}
+      - {x: 15, y: 14}
+      - {x: 16, y: 15}
+      - {x: 17, y: 16}
+      - {x: 18, y: 17}
+      - {x: 19, y: 18}
+      - {x: 20, y: 19}
+      - {x: 21, y: 20}
+      - {x: 22, y: 21}
+      - {x: 23, y: 22}
+      - {x: 24, y: 23}
+      - {x: 25, y: 24}
+      - {x: 0, y: 25}
+      weights:
+      - weight[0]: 0.9400995
+        weight[1]: 0.059900522
+        weight[2]: 0
+        weight[3]: 0
+        boneIndex[0]: 1
+        boneIndex[1]: 0
+        boneIndex[2]: 0
+        boneIndex[3]: 0
+      - weight[0]: 0.8956256
+        weight[1]: 0.10437441
+        weight[2]: 0
+        weight[3]: 0
+        boneIndex[0]: 1
+        boneIndex[1]: 0
+        boneIndex[2]: 0
+        boneIndex[3]: 0
+      - weight[0]: 0.841685
+        weight[1]: 0.158315
+        weight[2]: 0
+        weight[3]: 0
+        boneIndex[0]: 1
+        boneIndex[1]: 0
+        boneIndex[2]: 0
+        boneIndex[3]: 0
+      - weight[0]: 0.7239932
+        weight[1]: 0.27600682
+        weight[2]: 0
+        weight[3]: 0
+        boneIndex[0]: 1
+        boneIndex[1]: 0
+        boneIndex[2]: 0
+        boneIndex[3]: 0
+      - weight[0]: 0.5156649
+        weight[1]: 0.48433512
+        weight[2]: 0
+        weight[3]: 0
+        boneIndex[0]: 1
+        boneIndex[1]: 0
+        boneIndex[2]: 0
+        boneIndex[3]: 0
+      - weight[0]: 0.6326462
+        weight[1]: 0.3673538
+        weight[2]: 0
+        weight[3]: 0
+        boneIndex[0]: 0
+        boneIndex[1]: 1
+        boneIndex[2]: 0
+        boneIndex[3]: 0
+      - weight[0]: 0.7628531
+        weight[1]: 0.23714691
+        weight[2]: 0
+        weight[3]: 0
+        boneIndex[0]: 0
+        boneIndex[1]: 1
+        boneIndex[2]: 0
+        boneIndex[3]: 0
+      - weight[0]: 0.91625506
+        weight[1]: 0.083744936
+        weight[2]: 0
+        weight[3]: 0
+        boneIndex[0]: 0
+        boneIndex[1]: 1
+        boneIndex[2]: 0
+        boneIndex[3]: 0
+      - weight[0]: 0.9832925
+        weight[1]: 0.01670748
+        weight[2]: 0
+        weight[3]: 0
+        boneIndex[0]: 0
+        boneIndex[1]: 1
+        boneIndex[2]: 0
+        boneIndex[3]: 0
+      - weight[0]: 0.9982572
+        weight[1]: 0.0017427802
+        weight[2]: 0
+        weight[3]: 0
+        boneIndex[0]: 0
+        boneIndex[1]: 1
+        boneIndex[2]: 0
+        boneIndex[3]: 0
+      - weight[0]: 1
+        weight[1]: 0
+        weight[2]: 0
+        weight[3]: 0
+        boneIndex[0]: 0
+        boneIndex[1]: 0
+        boneIndex[2]: 0
+        boneIndex[3]: 0
+      - weight[0]: 1
+        weight[1]: 0
+        weight[2]: 0
+        weight[3]: 0
+        boneIndex[0]: 0
+        boneIndex[1]: 0
+        boneIndex[2]: 0
+        boneIndex[3]: 0
+      - weight[0]: 1
+        weight[1]: 0
+        weight[2]: 0
+        weight[3]: 0
+        boneIndex[0]: 0
+        boneIndex[1]: 0
+        boneIndex[2]: 0
+        boneIndex[3]: 0
+      - weight[0]: 0.9995834
+        weight[1]: 0.00041657686
+        weight[2]: 0
+        weight[3]: 0
+        boneIndex[0]: 0
+        boneIndex[1]: 1
+        boneIndex[2]: 0
+        boneIndex[3]: 0
+      - weight[0]: 0.98563063
+        weight[1]: 0.014369369
+        weight[2]: 0
+        weight[3]: 0
+        boneIndex[0]: 0
+        boneIndex[1]: 1
+        boneIndex[2]: 0
+        boneIndex[3]: 0
+      - weight[0]: 0.9391496
+        weight[1]: 0.06085038
+        weight[2]: 0
+        weight[3]: 0
+        boneIndex[0]: 0
+        boneIndex[1]: 1
+        boneIndex[2]: 0
+        boneIndex[3]: 0
+      - weight[0]: 0.84009635
+        weight[1]: 0.15990365
+        weight[2]: 0
+        weight[3]: 0
+        boneIndex[0]: 0
+        boneIndex[1]: 1
+        boneIndex[2]: 0
+        boneIndex[3]: 0
+      - weight[0]: 0.6427673
+        weight[1]: 0.3572327
+        weight[2]: 0
+        weight[3]: 0
+        boneIndex[0]: 0
+        boneIndex[1]: 1
+        boneIndex[2]: 0
+        boneIndex[3]: 0
+      - weight[0]: 0.50114614
+        weight[1]: 0.49885386
+        weight[2]: 0
+        weight[3]: 0
+        boneIndex[0]: 1
+        boneIndex[1]: 0
+        boneIndex[2]: 0
+        boneIndex[3]: 0
+      - weight[0]: 0.629534
+        weight[1]: 0.370466
+        weight[2]: 0
+        weight[3]: 0
+        boneIndex[0]: 1
+        boneIndex[1]: 0
+        boneIndex[2]: 0
+        boneIndex[3]: 0
+      - weight[0]: 0.74877965
+        weight[1]: 0.25122035
+        weight[2]: 0
+        weight[3]: 0
+        boneIndex[0]: 1
+        boneIndex[1]: 0
+        boneIndex[2]: 0
+        boneIndex[3]: 0
+      - weight[0]: 0.846706
+        weight[1]: 0.15329403
+        weight[2]: 0
+        weight[3]: 0
+        boneIndex[0]: 1
+        boneIndex[1]: 0
+        boneIndex[2]: 0
+        boneIndex[3]: 0
+      - weight[0]: 0.9318076
+        weight[1]: 0.06819242
+        weight[2]: 0
+        weight[3]: 0
+        boneIndex[0]: 1
+        boneIndex[1]: 0
+        boneIndex[2]: 0
+        boneIndex[3]: 0
+      - weight[0]: 0.9595758
+        weight[1]: 0.040424228
+        weight[2]: 0
+        weight[3]: 0
+        boneIndex[0]: 1
+        boneIndex[1]: 0
+        boneIndex[2]: 0
+        boneIndex[3]: 0
+      - weight[0]: 0.96453977
+        weight[1]: 0.035460234
+        weight[2]: 0
+        weight[3]: 0
+        boneIndex[0]: 1
+        boneIndex[1]: 0
+        boneIndex[2]: 0
+        boneIndex[3]: 0
+      - weight[0]: 0.95616126
+        weight[1]: 0.04383874
+        weight[2]: 0
+        weight[3]: 0
+        boneIndex[0]: 1
+        boneIndex[1]: 0
+        boneIndex[2]: 0
+        boneIndex[3]: 0
+      - weight[0]: 0.81356597
+        weight[1]: 0.18643405
+        weight[2]: 0
+        weight[3]: 0
+        boneIndex[0]: 1
+        boneIndex[1]: 0
+        boneIndex[2]: 0
+        boneIndex[3]: 0
+      - weight[0]: 0.8766901
+        weight[1]: 0.12330991
+        weight[2]: 0
+        weight[3]: 0
+        boneIndex[0]: 0
+        boneIndex[1]: 1
+        boneIndex[2]: 0
+        boneIndex[3]: 0
+      - weight[0]: 0.9987016
+        weight[1]: 0.0012984276
+        weight[2]: 0
+        weight[3]: 0
+        boneIndex[0]: 0
+        boneIndex[1]: 1
+        boneIndex[2]: 0
+        boneIndex[3]: 0
+      - weight[0]: 0.942055
+        weight[1]: 0.057945013
+        weight[2]: 0
+        weight[3]: 0
+        boneIndex[0]: 0
+        boneIndex[1]: 1
+        boneIndex[2]: 0
+        boneIndex[3]: 0
+      - weight[0]: 0.98620766
+        weight[1]: 0.013792336
+        weight[2]: 0
+        weight[3]: 0
+        boneIndex[0]: 0
+        boneIndex[1]: 1
+        boneIndex[2]: 0
+        boneIndex[3]: 0
+      - weight[0]: 0.9270575
+        weight[1]: 0.072942495
+        weight[2]: 0
+        weight[3]: 0
+        boneIndex[0]: 1
+        boneIndex[1]: 0
+        boneIndex[2]: 0
+        boneIndex[3]: 0
+      - weight[0]: 0.50163144
+        weight[1]: 0.49836856
+        weight[2]: 0
+        weight[3]: 0
+        boneIndex[0]: 1
+        boneIndex[1]: 0
+        boneIndex[2]: 0
+        boneIndex[3]: 0
+      - weight[0]: 0.7612183
+        weight[1]: 0.23878169
+        weight[2]: 0
+        weight[3]: 0
+        boneIndex[0]: 0
+        boneIndex[1]: 1
+        boneIndex[2]: 0
+        boneIndex[3]: 0
+      - weight[0]: 0.74612355
+        weight[1]: 0.25387645
+        weight[2]: 0
+        weight[3]: 0
+        boneIndex[0]: 1
+        boneIndex[1]: 0
+        boneIndex[2]: 0
+        boneIndex[3]: 0
+      - weight[0]: 0.62870157
+        weight[1]: 0.37129843
+        weight[2]: 0
+        weight[3]: 0
+        boneIndex[0]: 1
+        boneIndex[1]: 0
+        boneIndex[2]: 0
+        boneIndex[3]: 0
+      - weight[0]: 0.6408581
+        weight[1]: 0.3591419
+        weight[2]: 0
+        weight[3]: 0
+        boneIndex[0]: 0
+        boneIndex[1]: 1
+        boneIndex[2]: 0
+        boneIndex[3]: 0
+    - serializedVersion: 2
+      name: LetterConveer_Cat_girl_Brow
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 123
+        width: 60
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38acf60dfaeb7c54ba5fa6da66b99b6c
+      internalID: -1390585004290553306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LetterConveer_Cat_girl_Eyelid
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 2
+        width: 39
+        height: 112
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 8, y: 0, z: 30, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31e194e252f42fe40953da2211b58861
+      internalID: -834454283771431512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NumbersConveer_Cat_girl_Eye_Part
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 3
+        width: 25
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4cdb882ee0023a04fa0da5e6e0c9fada
+      internalID: -6268550661376023863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

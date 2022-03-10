@@ -1,0 +1,766 @@
+fileFormatVersion: 2
+guid: 17ace113d3627424aa67f55edbcc1cf5
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -1657769976670616340
+    second: Menu_Counting_Puzzle
+  - first:
+      213: -8274436930667410327
+    second: Menu_Counting_CircleR
+  - first:
+      213: 4327536479052399639
+    second: Menu_Counting_2
+  - first:
+      213: 5710078433804004124
+    second: Menu_Counting_Numbers_Part_2
+  - first:
+      213: 6673306959852990547
+    second: Menu_Counting_CircleG
+  - first:
+      213: 6005522219657414312
+    second: Menu_Counting_3
+  - first:
+      213: -7946937238121499135
+    second: Menu_Counting_Numbers_Part
+  - first:
+      213: 7141245106154409360
+    second: Menu_Counting_Strawberry
+  - first:
+      213: -8657761113944217032
+    second: Menu_Counting_8
+  - first:
+      213: 1377045564497923541
+    second: Menu_Counting_6
+  - first:
+      213: -8933368832019933431
+    second: Menu_Counting_5
+  - first:
+      213: 7888195654166754131
+    second: Menu_Counting_CircleB
+  - first:
+      213: 827434951905006541
+    second: Menu_Counting_CircleY
+  - first:
+      213: -3166521160391973170
+    second: Menu_Counting_Pumpkin
+  - first:
+      213: 5127869154208201413
+    second: Menu_Counting_Lemon
+  - first:
+      213: -3047470404235521577
+    second: Menu_Counting_7
+  - first:
+      213: -6825972185866182945
+    second: Menu_Counting_1
+  - first:
+      213: -7784808053491841057
+    second: Menu_Counting_0
+  - first:
+      213: -2788908409052215168
+    second: Menu_Counting_Star
+  - first:
+      213: -238350326995860904
+    second: Menu_Counting_Rabbit
+  - first:
+      213: 497149735384986868
+    second: Menu_Counting_Guitar
+  - first:
+      213: 6304082145958736432
+    second: Menu_Counting_Flower
+  - first:
+      213: 6950149363046125901
+    second: Menu_Counting_Grapes
+  - first:
+      213: -6069997919157031481
+    second: Menu_Counting_4
+  - first:
+      213: -8094821210324623590
+    second: Menu_Counting_Sign
+  - first:
+      213: -4963541137392344712
+    second: Menu_Counting_Cup
+  - first:
+      213: -4437140109875181371
+    second: "\u041C\u0435\u043D\u044E_Counting_26"
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Menu_Counting_Puzzle
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 339
+        width: 140
+        height: 171
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 158381ec0c58c6145b55262d87aca271
+      internalID: -1657769976670616340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Menu_Counting_CircleR
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 420
+        width: 89
+        height: 89
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4282bc5784612974a9f55799aa42437b
+      internalID: -8274436930667410327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Menu_Counting_2
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 424
+        width: 58
+        height: 87
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b519a2310fe25354d9d47edaac7406d6
+      internalID: 4327536479052399639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Menu_Counting_Numbers_Part_2
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 442
+        width: 185
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 792c1fa44edac0249ae7f460f9dd341d
+      internalID: 5710078433804004124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Menu_Counting_CircleG
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 327
+        width: 89
+        height: 89
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c16600e1aff058847bb0637281696a7d
+      internalID: 6673306959852990547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Menu_Counting_3
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 335
+        width: 57
+        height: 87
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 920bd3f2969766c478609694cea3561d
+      internalID: 6005522219657414312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Menu_Counting_Numbers_Part
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 364
+        width: 192
+        height: 75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 849d8149dcc64164e83675cacc5ab438
+      internalID: -7946937238121499135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Menu_Counting_Strawberry
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 259
+        width: 114
+        height: 78
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea5a4b383110be74a907dfb0a83f6270
+      internalID: 7141245106154409360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Menu_Counting_8
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 223
+        width: 56
+        height: 87
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cbacb871fdb8c6048aa529109de92ec2
+      internalID: -8657761113944217032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Menu_Counting_6
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 222
+        width: 63
+        height: 87
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f64062f9ea9726e4ab5b489029e0d14a
+      internalID: 1377045564497923541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Menu_Counting_5
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 222
+        width: 58
+        height: 87
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a88bc62fd7c05f149a07130c94c202bd
+      internalID: -8933368832019933431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Menu_Counting_CircleB
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 259
+        width: 89
+        height: 89
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4d10b7f187b8d447ba124282045c3ca
+      internalID: 7888195654166754131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Menu_Counting_CircleY
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 259
+        width: 89
+        height: 89
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e9621f1a2412ef44baefd538e7d52b8
+      internalID: 827434951905006541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Menu_Counting_Pumpkin
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 154
+        width: 102
+        height: 98
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7cc2c3329e10cad4db0f5e37e44c197e
+      internalID: -3166521160391973170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Menu_Counting_Lemon
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 142
+        width: 108
+        height: 76
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c242f572649ea30458df6900df322986
+      internalID: 5127869154208201413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Menu_Counting_7
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 160
+        width: 87
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53b8c53606cdee34a9d8a4a7f7d5cef9
+      internalID: -3047470404235521577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Menu_Counting_1
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 158
+        width: 36
+        height: 97
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13a3fa786b9ccdd4bb4918452de54400
+      internalID: -6825972185866182945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Menu_Counting_0
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 158
+        width: 74
+        height: 97
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4203fc96c1033f48983ac31490afa1d
+      internalID: -7784808053491841057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Menu_Counting_Star
+      rect:
+        serializedVersion: 2
+        x: 434
+        y: 180
+        width: 76
+        height: 74
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00e70b88fdbd0e7488ecd03963cdf805
+      internalID: -2788908409052215168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Menu_Counting_Rabbit
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 4
+        width: 79
+        height: 146
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67622cd8c50a6d5429b25e4afd330551
+      internalID: -238350326995860904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Menu_Counting_Guitar
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 4
+        width: 69
+        height: 134
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ab423959a889824a915b30ce77fcf5a
+      internalID: 497149735384986868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Menu_Counting_Flower
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 4
+        width: 89
+        height: 120
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c88257081a7135940841536bf4f5d61f
+      internalID: 6304082145958736432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Menu_Counting_Grapes
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 5
+        width: 84
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da87b7b39467f2f49951003860f75451
+      internalID: 6950149363046125901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Menu_Counting_4
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 111
+        width: 87
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4053211db80b3fc4881d16ceb44d7b69
+      internalID: -6069997919157031481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Menu_Counting_Sign
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 2
+        width: 67
+        height: 106
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3901baa0e4375f140948f77433962af3
+      internalID: -8094821210324623590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Menu_Counting_Cup
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 4
+        width: 92
+        height: 102
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0aecff75e037814e8093271810fe21d
+      internalID: -4963541137392344712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

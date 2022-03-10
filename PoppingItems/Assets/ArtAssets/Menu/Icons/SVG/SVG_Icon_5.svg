@@ -1,0 +1,45 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="323" height="323" viewBox="0 0 323 323">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #89fae2;
+      }
+
+      .cls-2 {
+        fill: #3be7ed;
+      }
+
+      .cls-2, .cls-3, .cls-6, .cls-7 {
+        fill-rule: evenodd;
+      }
+
+      .cls-3 {
+        fill: #b2fff7;
+      }
+
+      .cls-4 {
+        fill: #3ce1f0;
+      }
+
+      .cls-5 {
+        fill: #2dd1e0;
+      }
+
+      .cls-6 {
+        fill: #fff8c6;
+      }
+
+      .cls-7 {
+        fill: #fae1b1;
+      }
+    </style>
+  </defs>
+  <rect id="Rounded_Rectangle_1_copy_4" data-name="Rounded Rectangle 1 copy 4" class="cls-1" width="323" height="323" rx="42" ry="42"/>
+  <path class="cls-2" d="M129.313,39.422H2.094a10.047,10.047,0,0,1-1.993-.2A42,42,0,0,1,42,0h97.313V29.422A10,10,0,0,1,129.313,39.422Z"/>
+  <path class="cls-2" d="M212,54a17,17,0,0,1-17-17V0h86a42,42,0,0,1,42,42V54H212Z"/>
+  <path id="Прямоугольник_2" data-name="Прямоугольник 2" class="cls-3" d="M263,0V35H213V0h50Zm16,35V0h2a42,42,0,0,1,41.408,35H279Z"/>
+  <rect id="Rounded_Rectangle_570" data-name="Rounded Rectangle 570" class="cls-4" x="36.125" y="88.625" width="260.969" height="108.469"/>
+  <rect id="Rounded_Rectangle_589" data-name="Rounded Rectangle 589" class="cls-5" x="19.938" y="74.063" width="292.313" height="29.219" rx="10" ry="10"/>
+  <path class="cls-6" d="M281,323H42A42,42,0,0,1,0,281V172.109H323V281A42,42,0,0,1,281,323Z"/>
+  <path id="Фигура_4" data-name="Фигура 4" class="cls-7" d="M13,311.364V172H29V320.939A41.956,41.956,0,0,1,13,311.364ZM77,172V323H61V172H77Zm47,0V323H108V172h16Zm48,0V323H156V172h16Zm48,0V323H204V172h16Zm48,0V323H252V172h16Zm47,133.646a42.166,42.166,0,0,1-16,13.307V172h16V305.646Z"/>
+</svg>

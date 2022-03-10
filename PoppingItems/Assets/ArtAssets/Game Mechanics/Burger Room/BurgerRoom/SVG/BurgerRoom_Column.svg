@@ -1,0 +1,41 @@
+<svg id="Column1" xmlns="http://www.w3.org/2000/svg" width="587" height="1565" viewBox="0 0 587 1565">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #64c4d1;
+      }
+
+      .cls-2 {
+        fill: #4babb8;
+      }
+
+      .cls-3 {
+        fill: #e9fffc;
+      }
+
+      .cls-4 {
+        fill: #81bec7;
+      }
+    </style>
+  </defs>
+  <g>
+    <rect id="Прямоугольник_1" data-name="Прямоугольник 1" class="cls-1" x="29.75" y="11" width="518.5" height="1550.03"/>
+    <rect id="Прямоугольник_скругл._углы_4_copy" data-name="Прямоугольник, скругл. углы 4 copy" class="cls-2" x="0.563" y="0.719" width="585.75" height="130.437" rx="20" ry="20"/>
+    <rect id="Прямоугольник_скругл._углы_4_copy_3" data-name="Прямоугольник, скругл. углы 4 copy 3" class="cls-2" x="0.563" y="1431.06" width="585.75" height="136.32" rx="20" ry="20"/>
+    <g id="Pic">
+      <rect class="cls-3" x="108.594" y="494.375" width="371.531" height="565.715" rx="23" ry="23"/>
+      <ellipse class="cls-4" cx="160.313" cy="565.079" rx="20.25" ry="20.234"/>
+      <ellipse id="Ellipse_37_copy" data-name="Ellipse 37 copy" class="cls-4" cx="160.313" cy="647.063" rx="20.25" ry="20.218"/>
+      <circle id="Ellipse_37_copy_2" data-name="Ellipse 37 copy 2" class="cls-4" cx="160.313" cy="729.735" r="20.25"/>
+      <rect class="cls-4" x="228.188" y="556.438" width="185.25" height="17.906" rx="8.948" ry="8.948"/>
+      <rect id="Rectangle_143_copy" data-name="Rectangle 143 copy" class="cls-4" x="228.188" y="638.125" width="220" height="17.906" rx="8.948" ry="8.948"/>
+      <rect id="Rectangle_143_copy_2" data-name="Rectangle 143 copy 2" class="cls-4" x="228.188" y="721.938" width="148.968" height="17.906" rx="8.948" ry="8.948"/>
+      <ellipse id="Ellipse_37_copy_3" data-name="Ellipse 37 copy 3" class="cls-4" cx="160.313" cy="817.079" rx="20.25" ry="20.234"/>
+      <ellipse id="Ellipse_37_copy_3-2" data-name="Ellipse 37 copy 3" class="cls-4" cx="160.313" cy="899.063" rx="20.25" ry="20.218"/>
+      <circle id="Ellipse_37_copy_3-3" data-name="Ellipse 37 copy 3" class="cls-4" cx="160.313" cy="981.735" r="20.25"/>
+      <rect id="Rectangle_143_copy_3" data-name="Rectangle 143 copy 3" class="cls-4" x="228.188" y="808.438" width="221.843" height="17.906" rx="8.948" ry="8.948"/>
+      <rect id="Rectangle_143_copy_3-2" data-name="Rectangle 143 copy 3" class="cls-4" x="228.188" y="890.125" width="113.875" height="17.906" rx="8.948" ry="8.948"/>
+      <rect id="Rectangle_143_copy_3-3" data-name="Rectangle 143 copy 3" class="cls-4" x="228.188" y="973.938" width="178.25" height="17.906" rx="8.948" ry="8.948"/>
+    </g>
+  </g>
+</svg>

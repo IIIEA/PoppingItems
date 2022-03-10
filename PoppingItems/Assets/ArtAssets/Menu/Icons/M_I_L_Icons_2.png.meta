@@ -1,0 +1,475 @@
+fileFormatVersion: 2
+guid: 10abdaedf2b52494c9069f6e99f915bf
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 2897398690458243617
+    second: M_I_L_Icons_2_Conveyor_A_Outline
+  - first:
+      213: -861449221726323217
+    second: M_I_L_Icons_2_Conveyor_B_Outline
+  - first:
+      213: -6246137977417590774
+    second: M_I_L_Icons_2_Conveyor_A
+  - first:
+      213: 4570830155182471816
+    second: M_I_L_Icons_2_Conveyor_B
+  - first:
+      213: -2077304346527507306
+    second: M_I_L_Icons_2_Conveyor_3_Part
+  - first:
+      213: 6041520231519508735
+    second: M_I_L_Icons_2_FindLetters_2_Z
+  - first:
+      213: 7428922735584387705
+    second: M_I_L_Icons_2_Conveyor_3_A
+  - first:
+      213: 1599431357251336723
+    second: M_I_L_Icons_2_Conveyor_3_B
+  - first:
+      213: 3146872685748504553
+    second: M_I_L_Icons_2_FindLetters_4_Z
+  - first:
+      213: -2389827185328561239
+    second: M_I_L_Icons_2_Thinsbyletter_Arrow
+  - first:
+      213: 1229368512942845010
+    second: M_I_L_Icons_2_FindLetters_5_D
+  - first:
+      213: -4764531539795966798
+    second: M_I_L_Icons_2_FindLetters_5_Part
+  - first:
+      213: 8106361797812118377
+    second: M_I_L_Icons_2_FindLetters_4_J
+  - first:
+      213: -6077977477661968359
+    second: M_I_L_Icons_2_Thinsbyletter_3_Basketl
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: M_I_L_Icons_2_Conveyor_A_Outline
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 335
+        width: 155
+        height: 175
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6099b9ce67d2f1641a150d1d1acad27c
+      internalID: 2897398690458243617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: M_I_L_Icons_2_Conveyor_B_Outline
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 335
+        width: 122
+        height: 174
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3a0a7cf3ec92a44f8613410458cb935
+      internalID: -861449221726323217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: M_I_L_Icons_2_Conveyor_A
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 362
+        width: 126
+        height: 148
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 060fe20b7ca13914dafe28ebdc0f525a
+      internalID: -6246137977417590774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: M_I_L_Icons_2_Conveyor_B
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 360
+        width: 94
+        height: 149
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 176a54695dc329c48b79c73abfe1d4ce
+      internalID: 4570830155182471816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: M_I_L_Icons_2_Conveyor_3_Part
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 333
+        width: 29
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ab9b3258c7efde45befebeef8d620f2
+      internalID: -2077304346527507306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: M_I_L_Icons_2_FindLetters_2_Z
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 241
+        width: 116
+        height: 116
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af60acd6e3c822144bf1be92f0ba3499
+      internalID: 6041520231519508735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: M_I_L_Icons_2_Conveyor_3_A
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 178
+        width: 134
+        height: 154
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7786543b4731499498a9443dbbf5cfe6
+      internalID: 7428922735584387705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: M_I_L_Icons_2_Conveyor_3_B
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 178
+        width: 102
+        height: 154
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6bd8b56e2a435949b231f0d63d6b465
+      internalID: 1599431357251336723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: M_I_L_Icons_2_FindLetters_4_Z
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 198
+        width: 97
+        height: 127
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d89ca36594e59be4fa0be2b6e47c0b7b
+      internalID: 3146872685748504553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: M_I_L_Icons_2_Thinsbyletter_Arrow
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 168
+        width: 138
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9db66b47444739f46840edb24f2a0b97
+      internalID: -2389827185328561239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: M_I_L_Icons_2_FindLetters_5_D
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 3
+        width: 123
+        height: 152
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5b247280059c664b90fc1f7e43c1d4d
+      internalID: 1229368512942845010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: M_I_L_Icons_2_FindLetters_5_Part
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 3
+        width: 140
+        height: 143
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2ec55c5a7375554eabd77afa71b279d
+      internalID: -4764531539795966798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: M_I_L_Icons_2_FindLetters_4_J
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 3
+        width: 83
+        height: 167
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98fb01e2de3644d4f9992c7129e6c524
+      internalID: 8106361797812118377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: M_I_L_Icons_2_Thinsbyletter_3_Basketl
+      rect:
+        serializedVersion: 2
+        x: 361
+        y: 4
+        width: 147
+        height: 147
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3bcfd437183be743bfd4c54909f9f0d
+      internalID: -6077977477661968359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

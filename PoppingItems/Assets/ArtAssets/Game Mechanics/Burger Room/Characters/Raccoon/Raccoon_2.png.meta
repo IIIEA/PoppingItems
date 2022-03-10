@@ -1,0 +1,639 @@
+fileFormatVersion: 2
+guid: dec97449b0c39dd449e3ac9d52294b7d
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 3777037316512721456
+    second: Racoon_2_Head
+  - first:
+      213: -5911423129560709910
+    second: Racoon_2_Body
+  - first:
+      213: -4233622124623253922
+    second: Racoon_2_Circle
+  - first:
+      213: 3784547825848520336
+    second: Racoon_2_Mouth
+  - first:
+      213: -2459214765844998148
+    second: Racoon_2_Pants
+  - first:
+      213: 2023414054446443865
+    second: Racoon_2_Ear
+  - first:
+      213: 5670769043316110130
+    second: Racoon_2_2x2
+  - first:
+      213: -394014502393861292
+    second: Raccoon_2_Tongue
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Racoon_2_Head
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 135
+        width: 218
+        height: 375
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2f5ac837c5132c4aa9ac464f1af7cbe
+      internalID: 3777037316512721456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Racoon_2_Body
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 188
+        width: 288
+        height: 323
+      alignment: 9
+      pivot: {x: 0.5, y: 0.01565188}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd4179fb7cebe4c40a471569b38cab2a
+      internalID: -5911423129560709910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Racoon_2_Circle
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 132
+        height: 132
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 65, y: 65, z: 65, w: 65}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0547dfd359defb94d838b6c771fa844e
+      internalID: -4233622124623253922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Racoon_2_Mouth
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 23
+        width: 83
+        height: 109
+      alignment: 9
+      pivot: {x: 0.9, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 977a4549a79c3f340b5e37961ea1be7a
+      internalID: 3784547825848520336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Racoon_2_Pants
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 30
+        width: 80
+        height: 155
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 336e28332c75b164aa787fba72a4a480
+      internalID: -2459214765844998148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Racoon_2_Ear
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 0
+        width: 203
+        height: 184
+      alignment: 9
+      pivot: {x: 0.13969053, y: 0.37787324}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones:
+      - name: bone_1
+        position: {x: 22.445343, y: 81.337776, z: 0}
+        rotation: {x: 0, y: 0, z: 0.022595212, w: 0.9997447}
+        length: 64.885765
+        parentId: -1
+      - name: bone_2
+        position: {x: 64.88576, y: -0.000021287498, z: 0}
+        rotation: {x: 0, y: 0, z: 0.24550232, w: 0.969396}
+        length: 65.74922
+        parentId: 0
+      - name: bone_3
+        position: {x: 65.74922, y: -0.000008391459, z: 0}
+        rotation: {x: 0, y: 0, z: 0.18092492, w: 0.98349696}
+        length: 61.70779
+        parentId: 1
+      spriteID: feb4ecbb606c4e2469e51f8729b2daae
+      internalID: 2023414054446443865
+      vertices:
+      - {x: 118.55582, y: 13.643549}
+      - {x: 134.1528, y: 31.334547}
+      - {x: 149.46858, y: 51.181015}
+      - {x: 159.56859, y: 72.929016}
+      - {x: 166.46301, y: 98.259}
+      - {x: 184.564, y: 102.89368}
+      - {x: 203, y: 117.148674}
+      - {x: 203, y: 150}
+      - {x: 196.06752, y: 166.932}
+      - {x: 175.91405, y: 183}
+      - {x: 142.07997, y: 182.51306}
+      - {x: 130.08842, y: 166.99707}
+      - {x: 132.52548, y: 146.50699}
+      - {x: 115.30795, y: 145.38226}
+      - {x: 94.714935, y: 150.04625}
+      - {x: 52.34201, y: 169.75899}
+      - {x: 31.949005, y: 179.494}
+      - {x: 14.049011, y: 183}
+      - {x: 3, y: 183}
+      - {x: 0, y: 170.144}
+      - {x: 0, y: 131.36783}
+      - {x: 1.3788395, y: 105.556526}
+      - {x: 9.647961, y: 59.287014}
+      - {x: 30.15928, y: 18.454304}
+      - {x: 62.279137, y: 0}
+      - {x: 96, y: 0}
+      - {x: 91.8754, y: 72.13205}
+      - {x: 57.47711, y: 106.88808}
+      - {x: 170.97661, y: 130.52248}
+      - {x: 136.4496, y: 118.4706}
+      - {x: 23.748255, y: 150.39178}
+      indices: 16000000150000001b0000000c000000090000001c0000001c0000000900000008000000060000001c0000000700000008000000070000001c0000000a000000090000000c0000000c0000000b0000000a0000000c0000001d0000000d0000000c0000001c0000001d0000001d0000001c000000040000001c00000005000000040000001d00000004000000030000001a0000000d0000001d00000003000000020000001a0000001d000000030000001a000000010000001a0000000200000000000000190000001a0000001b0000000f0000000e00000017000000160000001a0000001a00000019000000180000000e0000001a0000001b0000001a000000160000001b0000000e0000000d0000001a00000018000000170000001a0000001e00000013000000110000001e0000001b000000150000001300000012000000110000001e00000014000000130000001e0000000f0000001b00000015000000140000001e0000001e000000100000000f00000011000000100000001e00000006000000050000001c00000001000000000000001a000000
+      edges:
+      - {x: 1, y: 0}
+      - {x: 1, y: 2}
+      - {x: 2, y: 3}
+      - {x: 4, y: 3}
+      - {x: 4, y: 5}
+      - {x: 6, y: 5}
+      - {x: 8, y: 7}
+      - {x: 9, y: 8}
+      - {x: 10, y: 9}
+      - {x: 11, y: 10}
+      - {x: 11, y: 12}
+      - {x: 12, y: 13}
+      - {x: 13, y: 14}
+      - {x: 16, y: 15}
+      - {x: 16, y: 17}
+      - {x: 18, y: 17}
+      - {x: 19, y: 18}
+      - {x: 20, y: 19}
+      - {x: 21, y: 20}
+      - {x: 25, y: 24}
+      - {x: 14, y: 15}
+      - {x: 21, y: 22}
+      - {x: 22, y: 23}
+      - {x: 23, y: 24}
+      - {x: 0, y: 25}
+      - {x: 6, y: 7}
+      weights:
+      - weight[0]: 0.8541018
+        weight[1]: 0.13570797
+        weight[2]: 0.010190268
+        weight[3]: 0
+        boneIndex[0]: 1
+        boneIndex[1]: 0
+        boneIndex[2]: 2
+        boneIndex[3]: 0
+      - weight[0]: 0.8888462
+        weight[1]: 0.07789035
+        weight[2]: 0.03326343
+        weight[3]: 0
+        boneIndex[0]: 1
+        boneIndex[1]: 0
+        boneIndex[2]: 2
+        boneIndex[3]: 0
+      - weight[0]: 0.8056443
+        weight[1]: 0.10148075
+        weight[2]: 0.09287503
+        weight[3]: 0
+        boneIndex[0]: 1
+        boneIndex[1]: 2
+        boneIndex[2]: 0
+        boneIndex[3]: 0
+      - weight[0]: 0.57301307
+        weight[1]: 0.31379065
+        weight[2]: 0.113196224
+        weight[3]: 0
+        boneIndex[0]: 1
+        boneIndex[1]: 2
+        boneIndex[2]: 0
+        boneIndex[3]: 0
+      - weight[0]: 0.6608944
+        weight[1]: 0.2519939
+        weight[2]: 0.08711168
+        weight[3]: 0
+        boneIndex[0]: 2
+        boneIndex[1]: 1
+        boneIndex[2]: 0
+        boneIndex[3]: 0
+      - weight[0]: 0.8647233
+        weight[1]: 0.08599067
+        weight[2]: 0.049286023
+        weight[3]: 0
+        boneIndex[0]: 2
+        boneIndex[1]: 1
+        boneIndex[2]: 0
+        boneIndex[3]: 0
+      - weight[0]: 0.97209525
+        weight[1]: 0.015060589
+        weight[2]: 0.01284416
+        weight[3]: 0
+        boneIndex[0]: 2
+        boneIndex[1]: 1
+        boneIndex[2]: 0
+        boneIndex[3]: 0
+      - weight[0]: 1
+        weight[1]: 0
+        weight[2]: 0
+        weight[3]: 0
+        boneIndex[0]: 2
+        boneIndex[1]: 0
+        boneIndex[2]: 0
+        boneIndex[3]: 0
+      - weight[0]: 1
+        weight[1]: 0
+        weight[2]: 0
+        weight[3]: 0
+        boneIndex[0]: 2
+        boneIndex[1]: 0
+        boneIndex[2]: 0
+        boneIndex[3]: 0
+      - weight[0]: 1
+        weight[1]: 0
+        weight[2]: 0
+        weight[3]: 0
+        boneIndex[0]: 2
+        boneIndex[1]: 0
+        boneIndex[2]: 0
+        boneIndex[3]: 0
+      - weight[0]: 0.9738138
+        weight[1]: 0.01633319
+        weight[2]: 0.009853036
+        weight[3]: 0
+        boneIndex[0]: 2
+        boneIndex[1]: 1
+        boneIndex[2]: 0
+        boneIndex[3]: 0
+      - weight[0]: 0.73557687
+        weight[1]: 0.18841235
+        weight[2]: 0.07601075
+        weight[3]: 0
+        boneIndex[0]: 2
+        boneIndex[1]: 1
+        boneIndex[2]: 0
+        boneIndex[3]: 0
+      - weight[0]: 0.74229544
+        weight[1]: 0.18345098
+        weight[2]: 0.074253574
+        weight[3]: 0
+        boneIndex[0]: 2
+        boneIndex[1]: 1
+        boneIndex[2]: 0
+        boneIndex[3]: 0
+      - weight[0]: 0.53416175
+        weight[1]: 0.33309022
+        weight[2]: 0.13274804
+        weight[3]: 0
+        boneIndex[0]: 1
+        boneIndex[1]: 2
+        boneIndex[2]: 0
+        boneIndex[3]: 0
+      - weight[0]: 0.6197103
+        weight[1]: 0.28252667
+        weight[2]: 0.097763
+        weight[3]: 0
+        boneIndex[0]: 1
+        boneIndex[1]: 0
+        boneIndex[2]: 2
+        boneIndex[3]: 0
+      - weight[0]: 0.55144674
+        weight[1]: 0.4172091
+        weight[2]: 0.031344216
+        weight[3]: 0
+        boneIndex[0]: 1
+        boneIndex[1]: 0
+        boneIndex[2]: 2
+        boneIndex[3]: 0
+      - weight[0]: 0.49360758
+        weight[1]: 0.4844796
+        weight[2]: 0.021912824
+        weight[3]: 0
+        boneIndex[0]: 1
+        boneIndex[1]: 0
+        boneIndex[2]: 2
+        boneIndex[3]: 0
+      - weight[0]: 0.5145477
+        weight[1]: 0.47067523
+        weight[2]: 0.0147770345
+        weight[3]: 0
+        boneIndex[0]: 0
+        boneIndex[1]: 1
+        boneIndex[2]: 2
+        boneIndex[3]: 0
+      - weight[0]: 0.5537763
+        weight[1]: 0.43910152
+        weight[2]: 0.0071222405
+        weight[3]: 0
+        boneIndex[0]: 0
+        boneIndex[1]: 1
+        boneIndex[2]: 2
+        boneIndex[3]: 0
+      - weight[0]: 0.5151926
+        weight[1]: 0.47040796
+        weight[2]: 0.014399385
+        weight[3]: 0
+        boneIndex[0]: 0
+        boneIndex[1]: 1
+        boneIndex[2]: 2
+        boneIndex[3]: 0
+      - weight[0]: 0.5373626
+        weight[1]: 0.45709026
+        weight[2]: 0.0055471915
+        weight[3]: 0
+        boneIndex[0]: 0
+        boneIndex[1]: 1
+        boneIndex[2]: 2
+        boneIndex[3]: 0
+      - weight[0]: 0.56876534
+        weight[1]: 0.42780715
+        weight[2]: 0.0034275225
+        weight[3]: 0
+        boneIndex[0]: 1
+        boneIndex[1]: 0
+        boneIndex[2]: 2
+        boneIndex[3]: 0
+      - weight[0]: 0.5115794
+        weight[1]: 0.48839882
+        weight[2]: 0.000021817508
+        weight[3]: 0
+        boneIndex[0]: 0
+        boneIndex[1]: 1
+        boneIndex[2]: 2
+        boneIndex[3]: 0
+      - weight[0]: 0.7074336
+        weight[1]: 0.292462
+        weight[2]: 0.00010444489
+        weight[3]: 0
+        boneIndex[0]: 0
+        boneIndex[1]: 1
+        boneIndex[2]: 2
+        boneIndex[3]: 0
+      - weight[0]: 0.65860605
+        weight[1]: 0.34093386
+        weight[2]: 0.00046011765
+        weight[3]: 0
+        boneIndex[0]: 0
+        boneIndex[1]: 1
+        boneIndex[2]: 2
+        boneIndex[3]: 0
+      - weight[0]: 0.69664705
+        weight[1]: 0.30040193
+        weight[2]: 0.0029510634
+        weight[3]: 0
+        boneIndex[0]: 1
+        boneIndex[1]: 0
+        boneIndex[2]: 2
+        boneIndex[3]: 0
+      - weight[0]: 1
+        weight[1]: 0
+        weight[2]: 0
+        weight[3]: 0
+        boneIndex[0]: 1
+        boneIndex[1]: 0
+        boneIndex[2]: 0
+        boneIndex[3]: 0
+      - weight[0]: 1
+        weight[1]: 0
+        weight[2]: 0
+        weight[3]: 0
+        boneIndex[0]: 1
+        boneIndex[1]: 0
+        boneIndex[2]: 0
+        boneIndex[3]: 0
+      - weight[0]: 0.8906136
+        weight[1]: 0.06234777
+        weight[2]: 0.047038622
+        weight[3]: 0
+        boneIndex[0]: 2
+        boneIndex[1]: 1
+        boneIndex[2]: 0
+        boneIndex[3]: 0
+      - weight[0]: 0.5073979
+        weight[1]: 0.37887135
+        weight[2]: 0.11373086
+        weight[3]: 0
+        boneIndex[0]: 2
+        boneIndex[1]: 1
+        boneIndex[2]: 0
+        boneIndex[3]: 0
+      - weight[0]: 0.5072433
+        weight[1]: 0.4831441
+        weight[2]: 0.009612629
+        weight[3]: 0
+        boneIndex[0]: 0
+        boneIndex[1]: 1
+        boneIndex[2]: 2
+        boneIndex[3]: 0
+    - serializedVersion: 2
+      name: Racoon_2_2x2
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 31
+        width: 3
+        height: 3
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67cd662a6ce4f184a9d1377587bd735c
+      internalID: 5670769043316110130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Raccoon_2_Tongue
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 1
+        width: 59
+        height: 27
+      alignment: 9
+      pivot: {x: 0.90230185, y: 0.21282695}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: daa21f0cffc52ca4082b65677a2afce1
+      internalID: -394014502393861292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

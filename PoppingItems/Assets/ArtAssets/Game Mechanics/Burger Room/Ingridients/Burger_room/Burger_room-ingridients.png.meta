@@ -1,0 +1,505 @@
+fileFormatVersion: 2
+guid: 901673719a26f4a4a9b46d4e8c790039
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -47490924312406034
+    second: Burger_room-ingridients_Donut
+  - first:
+      213: 4374468199564347633
+    second: Burger_room-ingridients_Fish
+  - first:
+      213: -5494884438289618752
+    second: Burger_room-ingridients_Cheese
+  - first:
+      213: 8306517290306313099
+    second: Burger_room-ingridients_bread
+  - first:
+      213: 7892369581581166310
+    second: Burger_room-ingridients_tomato
+  - first:
+      213: -581959474720218721
+    second: Burger_room-ingridients_sousage
+  - first:
+      213: 6671314046261404198
+    second: Burger_room-ingridients_Candy
+  - first:
+      213: -6557767630320670454
+    second: Burger_room-ingridients_Lettuce
+  - first:
+      213: -2578712124139515197
+    second: Burger_room-ingridients_broccoli
+  - first:
+      213: -1230646363149432664
+    second: Burger_room-ingridients_Watermelon
+  - first:
+      213: -4856888445904370740
+    second: Burger_room-ingridients_BurgTop
+  - first:
+      213: -5223399160149075680
+    second: Burger_room-ingridients_Spaghetti
+  - first:
+      213: 8113553746676640844
+    second: Burger_room-ingridients_orange
+  - first:
+      213: -1645877350331785633
+    second: Burger_room-ingridients_Avocado
+  - first:
+      213: 7637381649123010973
+    second: Burger_room-ingridients_egg
+  - first:
+      213: -47490924312406034
+    second: Burger_room-ingridients_broccoli
+  - first:
+      213: -47490924312406034
+    second: Burger_room-ingridients_icecream_top
+  - first:
+      213: 4374468199564347633
+    second: Burger_room-ingridients_Cheese
+  - first:
+      213: -5494884438289618752
+    second: Burger_room-ingridients_Avocado
+  - first:
+      213: 8306517290306313099
+    second: Burger_room-ingridients_Lettice
+  - first:
+      213: 1910015702101878108
+    second: Burger_room-ingridients_Cucumber
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 1024
+    resizeAlgorithm: 0
+    textureFormat: 33
+    textureCompression: 1
+    compressionQuality: 100
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 1
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Burger_room-ingridients_Donut
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 191
+        width: 159
+        height: 95
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 583352231b5e28541bbf5bbaa321fe26
+      internalID: -47490924312406034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Burger_room-ingridients_tomato
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 123
+        width: 94
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 335a90a0a408c75449d2b855319234fe
+      internalID: 7892369581581166310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Burger_room-ingridients_BurgTop
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 0
+        width: 183
+        height: 122
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a51bd340f60d8342b55b72e5e499be4
+      internalID: -4856888445904370740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Burger_room-ingridients_orange
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 400
+        width: 135
+        height: 111
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 164f0059ab0cc1748844adfab8ef7ea2
+      internalID: 8113553746676640844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Burger_room-ingridients_egg
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 1
+        width: 96
+        height: 188
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d797a600d935234ab70cb111572a98e
+      internalID: 7637381649123010973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Burger_room-ingridients_Watermelon
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 283
+        width: 113
+        height: 125
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f410bd16803961e48af716c0fc6b479b
+      internalID: -1230646363149432664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Burger_room-ingridients_Candy
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 289
+        width: 166
+        height: 97
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 204677a50200dff45bae16554a1c03be
+      internalID: 6671314046261404198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Burger_room-ingridients_Spaghetti
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 290
+        width: 209
+        height: 108
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 249b2624e6b4ead4792aed2884ebb896
+      internalID: -5223399160149075680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Burger_room-ingridients_bread
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 389
+        width: 186
+        height: 122
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea9125fba3e9b4040b663a9723959b9e
+      internalID: 8306517290306313099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Burger_room-ingridients_broccoli
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 181
+        width: 183
+        height: 106
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b4bcb5270d9177459fd278388d7c618
+      internalID: -47490924312406034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Burger_room-ingridients_icecream_top
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 7
+        width: 81
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f953fb1ec69b3e641bedcd47506e53d0
+      internalID: -47490924312406034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Burger_room-ingridients_Cheese
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 414
+        width: 154
+        height: 95
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b194184dbcc20f24cbcab0dc56ac0fe5
+      internalID: 4374468199564347633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Burger_room-ingridients_Avocado
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 199
+        width: 153
+        height: 82
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b027c1addb271344957a638309e11bf
+      internalID: -5494884438289618752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Burger_room-ingridients_Lettice
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 81
+        width: 206
+        height: 113
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ae585ce88b0bb54fac7756239520dac
+      internalID: 8306517290306313099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Burger_room-ingridients_Cucumber
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 2
+        width: 94
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d224709e7798f8942a6ee53f91a6e0be
+      internalID: 1910015702101878108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,16 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6c586c4969b8416e985a29ca57d983b0, type: 3}
+  m_Name: ScreenParticle
+  m_EditorClassIdentifier: 
+  _objects:
+  - {fileID: 8397367475543844616, guid: 9a64009a6a550c445acccb7689ecec7d, type: 3}

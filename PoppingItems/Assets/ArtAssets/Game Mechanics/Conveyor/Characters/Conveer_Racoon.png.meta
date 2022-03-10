@@ -1,0 +1,1055 @@
+fileFormatVersion: 2
+guid: d7bda4c6c5c0d0947a2e812cf492dcbb
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 353155204430371954
+    second: LetterConveer_Racoon_Head_part
+  - first:
+      213: 7738294217685217579
+    second: LetterConveer_Racoon_Crown_part
+  - first:
+      213: -2605453481582485169
+    second: LetterConveer_Racoon_Eye_Happy
+  - first:
+      213: -8737050981570792355
+    second: LetterConveer_Racoon_Head_part_skin
+  - first:
+      213: 6089707751875604510
+    second: LetterConveer_Racoon_Arm_Hand
+  - first:
+      213: 5636451211811448544
+    second: LetterConveer_Racoon_Mouth_Happy
+  - first:
+      213: 3547372686737241558
+    second: LetterConveer_Racoon_Ear_inside
+  - first:
+      213: 1482418231934097994
+    second: LetterConveer_Racoon_Mouth_Happy_tongue
+  - first:
+      213: 1528672129071663664
+    second: LetterConveer_Racoon_Ear_top
+  - first:
+      213: -5623767789296928628
+    second: LetterConveer_Racoon_Arm
+  - first:
+      213: 7998332208365929016
+    second: LetterConveer_Racoon_Ear
+  - first:
+      213: -6039100744179483554
+    second: LetterConveer_Racoon_Tail
+  - first:
+      213: -9144597647016686657
+    second: LetterConveer_Racoon_Mouth_Confused
+  - first:
+      213: 2615215752619020577
+    second: LetterConveer_Racoon_Mouth_Smile
+  - first:
+      213: -5332462481613263197
+    second: LetterConveer_Racoon_ScarfPart1
+  - first:
+      213: 2547373308839354632
+    second: LetterConveer_Racoon_HatPart1
+  - first:
+      213: 3779559103420362453
+    second: LetterConveer_Racoon_HatPart2
+  - first:
+      213: 2582559960835401975
+    second: LetterConveer_Racoon_ScarfPart3
+  - first:
+      213: -1222120929288580767
+    second: LetterConveer_Racoon_ScarfPart2
+  - first:
+      213: -5332462481613263197
+    second: LetterConveer_Racoon_0
+  - first:
+      213: -8001980436582808930
+    second: NumbersConveer_Racoon_Eye_Part
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: LetterConveer_Racoon_Head_part
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 223
+        width: 168
+        height: 287
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a4ca7b735689554bbb3fb41283ce5db
+      internalID: 353155204430371954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LetterConveer_Racoon_Crown_part
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 431
+        width: 58
+        height: 79
+      alignment: 9
+      pivot: {x: 0.53348356, y: 0.13125843}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 073a3ac0cde3fd148a9b5b63fa3054dd
+      internalID: 7738294217685217579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LetterConveer_Racoon_Eye_Happy
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 473
+        width: 66
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28f00dcce89024049a8f19287dd6a203
+      internalID: -2605453481582485169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LetterConveer_Racoon_Head_part_skin
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 255
+        width: 190
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa7600c4c70ba5346aa908ecff817564
+      internalID: -8737050981570792355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LetterConveer_Racoon_Arm_Hand
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 381
+        width: 48
+        height: 48
+      alignment: 9
+      pivot: {x: 0.40192, y: 0.7370288}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00005f9cdeca4b0489a22141d3a4160a
+      internalID: 6089707751875604510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LetterConveer_Racoon_Mouth_Happy
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 403
+        width: 90
+        height: 68
+      alignment: 9
+      pivot: {x: 0.5, y: 0.8382474}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad5c07a7acc8a774eb59d17f1bbc8cc6
+      internalID: 5636451211811448544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LetterConveer_Racoon_Ear_inside
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 287
+        width: 55
+        height: 93
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8783abbcea6c0644ab0d9deb7c9eebff
+      internalID: 3547372686737241558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LetterConveer_Racoon_Mouth_Happy_tongue
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 358
+        width: 88
+        height: 31
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 25, z: 0, w: 5}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92b2d144dedf5114fbbb4c47e3e6c43f
+      internalID: 1482418231934097994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LetterConveer_Racoon_Ear_top
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 216
+        width: 69
+        height: 67
+      alignment: 9
+      pivot: {x: 0.47250783, y: 0.15460183}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0ba84dc974938b4fb3560e621203de2
+      internalID: 1528672129071663664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LetterConveer_Racoon_Arm
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 163
+        width: 65
+        height: 151
+      alignment: 9
+      pivot: {x: 0.5128404, y: 0.88628405}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones:
+      - name: bone_1
+        position: {x: 32.1781, y: 145.90048, z: 0}
+        rotation: {x: 0, y: 0, z: -0.7071068, w: 0.7071068}
+        length: 75.0415
+        parentId: -1
+      - name: bone_2
+        position: {x: 75.041504, y: -0.000003342273, z: 0}
+        rotation: {x: 0, y: 0, z: -0.006849031, w: 0.9999766}
+        length: 69.0573
+        parentId: 0
+      spriteID: dc4362b7bdfd1b549ae5a61cc744a471
+      internalID: -5623767789296928628
+      vertices:
+      - {x: 50.553757, y: 5.173643}
+      - {x: 55.859756, y: 20.034859}
+      - {x: 60.779507, y: 34.785904}
+      - {x: 62.705276, y: 47.49083}
+      - {x: 63.65399, y: 61.817657}
+      - {x: 65, y: 76.64566}
+      - {x: 64.75299, y: 91.819}
+      - {x: 64.634, y: 107.08899}
+      - {x: 64.4181, y: 122.55238}
+      - {x: 59.431103, y: 138.2369}
+      - {x: 49.369366, y: 149.06055}
+      - {x: 37.769012, y: 151}
+      - {x: 20.473999, y: 151}
+      - {x: 8.390957, y: 143.76512}
+      - {x: 0.69599915, y: 133.03699}
+      - {x: 0.15100098, y: 119.119995}
+      - {x: 0.024002075, y: 103.828}
+      - {x: 0.04499817, y: 88.53299}
+      - {x: 0.42300415, y: 73.267}
+      - {x: 0.28692365, y: 58.04913}
+      - {x: 2.333936, y: 43.257137}
+      - {x: 6.4923654, y: 28.649794}
+      - {x: 10.29813, y: 14.277089}
+      - {x: 16.083134, y: 1.157094}
+      - {x: 25.075012, y: 0}
+      - {x: 44, y: 0}
+      - {x: 20.311737, y: 55.12758}
+      - {x: 40.231598, y: 31.531006}
+      - {x: 31.581726, y: 110.50711}
+      - {x: 36.359833, y: 132.59521}
+      - {x: 31.892609, y: 89.354614}
+      - {x: 16.676514, y: 75.75241}
+      - {x: 31.077637, y: 16.901993}
+      - {x: 20.33429, y: 129.50781}
+      - {x: 32.224396, y: 69.2558}
+      - {x: 47.475677, y: 63.316742}
+      - {x: 16.76471, y: 95.335754}
+      - {x: 15.545105, y: 113.04956}
+      - {x: 38.732574, y: 48.662323}
+      - {x: 23.041168, y: 35.68289}
+      - {x: 47.30121, y: 100.08786}
+      - {x: 47.401367, y: 81.629425}
+      - {x: 46.994415, y: 118.60657}
+      indices: 150000001400000027000000260000001a00000022000000260000002300000003000000230000002200000029000000200000000100000000000000000000001900000020000000010000001b000000020000000300000002000000260000000400000023000000050000000300000023000000040000001b00000001000000200000000500000023000000290000001c0000002a00000028000000290000001e000000280000000a0000001d0000000b0000002a0000001c0000001d0000002a0000001d000000090000001d0000000c0000000b0000002a00000007000000280000001c000000280000001e0000002800000007000000060000000500000029000000060000002a00000008000000070000000a000000090000001d00000009000000080000002a0000002800000006000000290000002300000026000000220000001b00000027000000260000001b000000260000000200000020000000270000001b00000013000000120000001f000000130000001a00000014000000270000001600000015000000200000001800000017000000270000001a0000002600000027000000140000001a0000002000000016000000270000001a0000001f000000220000002000000019000000180000002000000017000000160000001a000000130000001f000000100000000f0000002500000029000000220000001e0000000d000000210000000e0000002400000011000000100000001c0000001e00000024000000240000001e0000001f000000250000001c000000240000001000000025000000240000000d0000000c000000210000001c0000002500000021000000210000000c0000001d000000250000000f000000210000001d0000001c000000210000001f00000011000000240000001f00000012000000110000000e000000210000000f0000001f0000001e00000022000000
+      edges:
+      - {x: 1, y: 0}
+      - {x: 2, y: 1}
+      - {x: 3, y: 2}
+      - {x: 4, y: 3}
+      - {x: 5, y: 4}
+      - {x: 6, y: 5}
+      - {x: 7, y: 6}
+      - {x: 8, y: 7}
+      - {x: 9, y: 8}
+      - {x: 10, y: 9}
+      - {x: 11, y: 10}
+      - {x: 12, y: 11}
+      - {x: 13, y: 12}
+      - {x: 14, y: 13}
+      - {x: 15, y: 14}
+      - {x: 16, y: 15}
+      - {x: 17, y: 16}
+      - {x: 18, y: 17}
+      - {x: 19, y: 18}
+      - {x: 20, y: 19}
+      - {x: 21, y: 20}
+      - {x: 22, y: 21}
+      - {x: 23, y: 22}
+      - {x: 24, y: 23}
+      - {x: 25, y: 24}
+      - {x: 0, y: 25}
+      weights:
+      - weight[0]: 0.8685491
+        weight[1]: 0.13145089
+        weight[2]: 0
+        weight[3]: 0
+        boneIndex[0]: 1
+        boneIndex[1]: 0
+        boneIndex[2]: 0
+        boneIndex[3]: 0
+      - weight[0]: 0.8012361
+        weight[1]: 0.1987639
+        weight[2]: 0
+        weight[3]: 0
+        boneIndex[0]: 1
+        boneIndex[1]: 0
+        boneIndex[2]: 0
+        boneIndex[3]: 0
+      - weight[0]: 0.7013739
+        weight[1]: 0.29862612
+        weight[2]: 0
+        weight[3]: 0
+        boneIndex[0]: 1
+        boneIndex[1]: 0
+        boneIndex[2]: 0
+        boneIndex[3]: 0
+      - weight[0]: 0.5888448
+        weight[1]: 0.4111552
+        weight[2]: 0
+        weight[3]: 0
+        boneIndex[0]: 1
+        boneIndex[1]: 0
+        boneIndex[2]: 0
+        boneIndex[3]: 0
+      - weight[0]: 0.51579106
+        weight[1]: 0.48420897
+        weight[2]: 0
+        weight[3]: 0
+        boneIndex[0]: 1
+        boneIndex[1]: 0
+        boneIndex[2]: 0
+        boneIndex[3]: 0
+      - weight[0]: 0.5673747
+        weight[1]: 0.4326253
+        weight[2]: 0
+        weight[3]: 0
+        boneIndex[0]: 0
+        boneIndex[1]: 1
+        boneIndex[2]: 0
+        boneIndex[3]: 0
+      - weight[0]: 0.7067604
+        weight[1]: 0.29323956
+        weight[2]: 0
+        weight[3]: 0
+        boneIndex[0]: 0
+        boneIndex[1]: 1
+        boneIndex[2]: 0
+        boneIndex[3]: 0
+      - weight[0]: 0.8423673
+        weight[1]: 0.15763271
+        weight[2]: 0
+        weight[3]: 0
+        boneIndex[0]: 0
+        boneIndex[1]: 1
+        boneIndex[2]: 0
+        boneIndex[3]: 0
+      - weight[0]: 0.94973326
+        weight[1]: 0.050266743
+        weight[2]: 0
+        weight[3]: 0
+        boneIndex[0]: 0
+        boneIndex[1]: 1
+        boneIndex[2]: 0
+        boneIndex[3]: 0
+      - weight[0]: 0.99471575
+        weight[1]: 0.00528425
+        weight[2]: 0
+        weight[3]: 0
+        boneIndex[0]: 0
+        boneIndex[1]: 1
+        boneIndex[2]: 0
+        boneIndex[3]: 0
+      - weight[0]: 1
+        weight[1]: 0
+        weight[2]: 0
+        weight[3]: 0
+        boneIndex[0]: 0
+        boneIndex[1]: 0
+        boneIndex[2]: 0
+        boneIndex[3]: 0
+      - weight[0]: 1
+        weight[1]: 0
+        weight[2]: 0
+        weight[3]: 0
+        boneIndex[0]: 0
+        boneIndex[1]: 0
+        boneIndex[2]: 0
+        boneIndex[3]: 0
+      - weight[0]: 1
+        weight[1]: 0
+        weight[2]: 0
+        weight[3]: 0
+        boneIndex[0]: 0
+        boneIndex[1]: 0
+        boneIndex[2]: 0
+        boneIndex[3]: 0
+      - weight[0]: 0.99999315
+        weight[1]: 0.000006854534
+        weight[2]: 0
+        weight[3]: 0
+        boneIndex[0]: 0
+        boneIndex[1]: 1
+        boneIndex[2]: 0
+        boneIndex[3]: 0
+      - weight[0]: 0.9990018
+        weight[1]: 0.000998199
+        weight[2]: 0
+        weight[3]: 0
+        boneIndex[0]: 0
+        boneIndex[1]: 1
+        boneIndex[2]: 0
+        boneIndex[3]: 0
+      - weight[0]: 0.9720957
+        weight[1]: 0.027904272
+        weight[2]: 0
+        weight[3]: 0
+        boneIndex[0]: 0
+        boneIndex[1]: 1
+        boneIndex[2]: 0
+        boneIndex[3]: 0
+      - weight[0]: 0.85391605
+        weight[1]: 0.14608395
+        weight[2]: 0
+        weight[3]: 0
+        boneIndex[0]: 0
+        boneIndex[1]: 1
+        boneIndex[2]: 0
+        boneIndex[3]: 0
+      - weight[0]: 0.7068884
+        weight[1]: 0.29311162
+        weight[2]: 0
+        weight[3]: 0
+        boneIndex[0]: 0
+        boneIndex[1]: 1
+        boneIndex[2]: 0
+        boneIndex[3]: 0
+      - weight[0]: 0.600631
+        weight[1]: 0.399369
+        weight[2]: 0
+        weight[3]: 0
+        boneIndex[0]: 0
+        boneIndex[1]: 1
+        boneIndex[2]: 0
+        boneIndex[3]: 0
+      - weight[0]: 0.50320596
+        weight[1]: 0.49679404
+        weight[2]: 0
+        weight[3]: 0
+        boneIndex[0]: 1
+        boneIndex[1]: 0
+        boneIndex[2]: 0
+        boneIndex[3]: 0
+      - weight[0]: 0.64679706
+        weight[1]: 0.35320294
+        weight[2]: 0
+        weight[3]: 0
+        boneIndex[0]: 1
+        boneIndex[1]: 0
+        boneIndex[2]: 0
+        boneIndex[3]: 0
+      - weight[0]: 0.73155475
+        weight[1]: 0.26844525
+        weight[2]: 0
+        weight[3]: 0
+        boneIndex[0]: 1
+        boneIndex[1]: 0
+        boneIndex[2]: 0
+        boneIndex[3]: 0
+      - weight[0]: 0.79740566
+        weight[1]: 0.20259432
+        weight[2]: 0
+        weight[3]: 0
+        boneIndex[0]: 1
+        boneIndex[1]: 0
+        boneIndex[2]: 0
+        boneIndex[3]: 0
+      - weight[0]: 0.85890925
+        weight[1]: 0.14109075
+        weight[2]: 0
+        weight[3]: 0
+        boneIndex[0]: 1
+        boneIndex[1]: 0
+        boneIndex[2]: 0
+        boneIndex[3]: 0
+      - weight[0]: 0.8772044
+        weight[1]: 0.12279558
+        weight[2]: 0
+        weight[3]: 0
+        boneIndex[0]: 1
+        boneIndex[1]: 0
+        boneIndex[2]: 0
+        boneIndex[3]: 0
+      - weight[0]: 0.88894606
+        weight[1]: 0.11105394
+        weight[2]: 0
+        weight[3]: 0
+        boneIndex[0]: 1
+        boneIndex[1]: 0
+        boneIndex[2]: 0
+        boneIndex[3]: 0
+      - weight[0]: 0.57504714
+        weight[1]: 0.42495286
+        weight[2]: 0
+        weight[3]: 0
+        boneIndex[0]: 1
+        boneIndex[1]: 0
+        boneIndex[2]: 0
+        boneIndex[3]: 0
+      - weight[0]: 0.75338
+        weight[1]: 0.24662
+        weight[2]: 0
+        weight[3]: 0
+        boneIndex[0]: 1
+        boneIndex[1]: 0
+        boneIndex[2]: 0
+        boneIndex[3]: 0
+      - weight[0]: 0.8774145
+        weight[1]: 0.12258547
+        weight[2]: 0
+        weight[3]: 0
+        boneIndex[0]: 0
+        boneIndex[1]: 1
+        boneIndex[2]: 0
+        boneIndex[3]: 0
+      - weight[0]: 0.98605907
+        weight[1]: 0.01394093
+        weight[2]: 0
+        weight[3]: 0
+        boneIndex[0]: 0
+        boneIndex[1]: 1
+        boneIndex[2]: 0
+        boneIndex[3]: 0
+      - weight[0]: 0.7058997
+        weight[1]: 0.29410028
+        weight[2]: 0
+        weight[3]: 0
+        boneIndex[0]: 0
+        boneIndex[1]: 1
+        boneIndex[2]: 0
+        boneIndex[3]: 0
+      - weight[0]: 0.6039933
+        weight[1]: 0.3960067
+        weight[2]: 0
+        weight[3]: 0
+        boneIndex[0]: 0
+        boneIndex[1]: 1
+        boneIndex[2]: 0
+        boneIndex[3]: 0
+      - weight[0]: 0.832625
+        weight[1]: 0.16737503
+        weight[2]: 0
+        weight[3]: 0
+        boneIndex[0]: 1
+        boneIndex[1]: 0
+        boneIndex[2]: 0
+        boneIndex[3]: 0
+      - weight[0]: 0.98844385
+        weight[1]: 0.0115561485
+        weight[2]: 0
+        weight[3]: 0
+        boneIndex[0]: 0
+        boneIndex[1]: 1
+        boneIndex[2]: 0
+        boneIndex[3]: 0
+      - weight[0]: 0.517311
+        weight[1]: 0.48268902
+        weight[2]: 0
+        weight[3]: 0
+        boneIndex[0]: 0
+        boneIndex[1]: 1
+        boneIndex[2]: 0
+        boneIndex[3]: 0
+      - weight[0]: 0.5113907
+        weight[1]: 0.4886093
+        weight[2]: 0
+        weight[3]: 0
+        boneIndex[0]: 1
+        boneIndex[1]: 0
+        boneIndex[2]: 0
+        boneIndex[3]: 0
+      - weight[0]: 0.78640246
+        weight[1]: 0.21359755
+        weight[2]: 0
+        weight[3]: 0
+        boneIndex[0]: 0
+        boneIndex[1]: 1
+        boneIndex[2]: 0
+        boneIndex[3]: 0
+      - weight[0]: 0.91181314
+        weight[1]: 0.08818686
+        weight[2]: 0
+        weight[3]: 0
+        boneIndex[0]: 0
+        boneIndex[1]: 1
+        boneIndex[2]: 0
+        boneIndex[3]: 0
+      - weight[0]: 0.6312165
+        weight[1]: 0.36878347
+        weight[2]: 0
+        weight[3]: 0
+        boneIndex[0]: 1
+        boneIndex[1]: 0
+        boneIndex[2]: 0
+        boneIndex[3]: 0
+      - weight[0]: 0.72236574
+        weight[1]: 0.27763426
+        weight[2]: 0
+        weight[3]: 0
+        boneIndex[0]: 1
+        boneIndex[1]: 0
+        boneIndex[2]: 0
+        boneIndex[3]: 0
+      - weight[0]: 0.78417563
+        weight[1]: 0.21582437
+        weight[2]: 0
+        weight[3]: 0
+        boneIndex[0]: 0
+        boneIndex[1]: 1
+        boneIndex[2]: 0
+        boneIndex[3]: 0
+      - weight[0]: 0.6283885
+        weight[1]: 0.37161148
+        weight[2]: 0
+        weight[3]: 0
+        boneIndex[0]: 0
+        boneIndex[1]: 1
+        boneIndex[2]: 0
+        boneIndex[3]: 0
+      - weight[0]: 0.91543823
+        weight[1]: 0.084561765
+        weight[2]: 0
+        weight[3]: 0
+        boneIndex[0]: 0
+        boneIndex[1]: 1
+        boneIndex[2]: 0
+        boneIndex[3]: 0
+    - serializedVersion: 2
+      name: LetterConveer_Racoon_Ear
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 95
+        width: 183
+        height: 155
+      alignment: 9
+      pivot: {x: 0.45847175, y: 0.24784595}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59397c0e30f49f243b42e5f245784d6b
+      internalID: 7998332208365929016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LetterConveer_Racoon_Tail
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 60
+        width: 239
+        height: 150
+      alignment: 9
+      pivot: {x: 0.9360833, y: 0.507238}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56dc1b66fb6be8b49a4cf1132e2acfc6
+      internalID: -6039100744179483554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LetterConveer_Racoon_Mouth_Confused
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 132
+        width: 79
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 439f0296409121a429e3512aacf69599
+      internalID: -9144597647016686657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LetterConveer_Racoon_Mouth_Smile
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 102
+        width: 84
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 723bf0caa9861ed4c87f6ed86f4b586c
+      internalID: 2615215752619020577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LetterConveer_Racoon_ScarfPart1
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 0
+        width: 170
+        height: 92
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd5371c9fe6c3e44bb262026ab2cffba
+      internalID: -5332462481613263197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LetterConveer_Racoon_HatPart1
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 0
+        width: 94
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b96aced5e252ad409815725775b1ea4
+      internalID: 2547373308839354632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LetterConveer_Racoon_HatPart2
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 0
+        width: 73
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf107c7f74293c94ba2cfa79436fefab
+      internalID: 3779559103420362453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LetterConveer_Racoon_ScarfPart3
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 0
+        width: 78
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4ae70d697afbfc45a97bcef37623063
+      internalID: 2582559960835401975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LetterConveer_Racoon_ScarfPart2
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 0
+        width: 85
+        height: 99
+      alignment: 9
+      pivot: {x: 0.51248884, y: 0.9315809}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18945e62358b88740913c2d48ef9850c
+      internalID: -1222120929288580767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LetterConveer_Racoon_0
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 33
+        width: 62
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc8eca4b5d3462b4b9349608e2f54705
+      internalID: -5332462481613263197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NumbersConveer_Racoon_Eye_Part
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 318
+        width: 89
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 355ee5084b217644ca2e11cb381162ce
+      internalID: -8001980436582808930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

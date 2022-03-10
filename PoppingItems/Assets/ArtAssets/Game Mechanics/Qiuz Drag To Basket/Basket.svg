@@ -1,0 +1,24 @@
+<svg id="Basket" xmlns="http://www.w3.org/2000/svg" width="737" height="389.31" viewBox="0 0 737 389.31">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #b82727;
+      }
+
+      .cls-1, .cls-2, .cls-3 {
+        fill-rule: evenodd;
+      }
+
+      .cls-2 {
+        fill: #f14747;
+      }
+
+      .cls-3 {
+        fill: #ff6367;
+      }
+    </style>
+  </defs>
+  <path class="cls-1" d="M1520.55,1225h296.91v90H1517.55Z" transform="translate(-1298 -1146.69)"/>
+  <path id="Rounded_Rectangle_1428" data-name="Rounded Rectangle 1428" class="cls-2" d="M1987.17,1239.78s-0.61,7.41-.53,7.52c-0.95,14.01-11.08,164.21-18.64,290.7H1370c-8.73-112.89-17.47-284.87-18.07-298.22h635.24Zm-448.2,23.89c0,19.15,11.19,34.68,25,34.68h197c13.81,0,25-15.53,25-34.68v-9.5c0-3.83-2.24-6.93-5-6.93h-237c-2.76,0-5,3.1-5,6.93v9.5Z" transform="translate(-1298 -1146.69)"/>
+  <path id="Rounded_Rectangle_1429" data-name="Rounded Rectangle 1429" class="cls-3" d="M1334,1146.7h665a36,36,0,0,1,36,36v27.19a36,36,0,0,1-36,36H1334a36,36,0,0,1-36-36V1182.7A36,36,0,0,1,1334,1146.7Z" transform="translate(-1298 -1146.69)"/>
+</svg>

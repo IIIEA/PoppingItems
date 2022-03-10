@@ -1,0 +1,24 @@
+<svg id="SVG_SN_BG3_Table" xmlns="http://www.w3.org/2000/svg" width="669" height="378.22" viewBox="0 0 669 378.22">
+  <defs>
+    <style>
+      .cls-1, .cls-3 {
+        fill: #ff978f;
+      }
+
+      .cls-2 {
+        fill: #ff7f82;
+      }
+
+      .cls-2, .cls-3 {
+        fill-rule: evenodd;
+      }
+
+      .cls-3 {
+        opacity: 0.7;
+      }
+    </style>
+  </defs>
+  <rect class="cls-1" width="669" height="35.22" rx="9" ry="9"/>
+  <path class="cls-2" d="M2569,6351V6042H2307v309h-35.09V6008H2797v343H2569Z" transform="translate(-2192 -5972.78)"/>
+  <path class="cls-3" d="M2605,6030.12h155.72a8,8,0,0,1,8,8v91.07a8,8,0,0,1-8,8H2605a8,8,0,0,1-8-8v-91.07A8,8,0,0,1,2605,6030.12Zm2.22,130.5h153.5a8,8,0,0,1,8,8V6321a8,8,0,0,1-8,8h-153.5a8,8,0,0,1-8-8V6168.62A8,8,0,0,1,2607.22,6160.62Z" transform="translate(-2192 -5972.78)"/>
+</svg>

@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="327" height="327" viewBox="0 0 327 327">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #daffff;
+      }
+
+      .cls-2 {
+        fill: #4ebdf7;
+      }
+
+      .cls-2, .cls-3 {
+        fill-rule: evenodd;
+      }
+
+      .cls-3 {
+        fill: #139ae2;
+      }
+    </style>
+  </defs>
+  <rect id="Wood_2" data-name="Wood 2" class="cls-1" width="327" height="327" rx="36" ry="36"/>
+  <path id="Rounded_Rectangle_2" data-name="Rounded Rectangle 2" class="cls-2" d="M36.926,249.22c-1.884-9.508,1.883-17.426,8.465-17.426H281.959c6.582,0,10.35,7.918,8.465,17.426L275.012,327H52.338Z"/>
+  <path class="cls-3" d="M105.036,231.809v95.126H221.412V231.809H105.036Z"/>
+</svg>

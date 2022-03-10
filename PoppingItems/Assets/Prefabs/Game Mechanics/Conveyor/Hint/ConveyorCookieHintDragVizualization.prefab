@@ -1,0 +1,160 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1001 &1395174576345722253
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 886474504365586910, guid: bd750cfdedba64e45af92739c83ad883,
+        type: 3}
+      propertyPath: serializationData.Prefab
+      value: 
+      objectReference: {fileID: 886474504365586910, guid: bd750cfdedba64e45af92739c83ad883,
+        type: 3}
+    - target: {fileID: 2426162604468435996, guid: bd750cfdedba64e45af92739c83ad883,
+        type: 3}
+      propertyPath: serializationData.Prefab
+      value: 
+      objectReference: {fileID: 2426162604468435996, guid: bd750cfdedba64e45af92739c83ad883,
+        type: 3}
+    - target: {fileID: 2426162604468435996, guid: bd750cfdedba64e45af92739c83ad883,
+        type: 3}
+      propertyPath: serializationData.PrefabModifications.Array.size
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 2426162604468435996, guid: bd750cfdedba64e45af92739c83ad883,
+        type: 3}
+      propertyPath: serializationData.PrefabModifications.Array.data[0]
+      value: '"path":"_action","value":$eref:0'
+      objectReference: {fileID: 0}
+    - target: {fileID: 2426162604468435996, guid: bd750cfdedba64e45af92739c83ad883,
+        type: 3}
+      propertyPath: serializationData.PrefabModificationsReferencedUnityObjects.Array.size
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 2426162604468435996, guid: bd750cfdedba64e45af92739c83ad883,
+        type: 3}
+      propertyPath: serializationData.PrefabModificationsReferencedUnityObjects.Array.data[0]
+      value: 
+      objectReference: {fileID: 0}
+    - target: {fileID: 2555995875714846784, guid: bd750cfdedba64e45af92739c83ad883,
+        type: 3}
+      propertyPath: _signalDesc
+      value: AmayaSoft.CoreFramework.AudioModule.Signals.SoundPlayersChannel+StopSoundGroupSignal,
+        AudioModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null
+      objectReference: {fileID: 0}
+    - target: {fileID: 2555995875714846784, guid: bd750cfdedba64e45af92739c83ad883,
+        type: 3}
+      propertyPath: _channelDesc
+      value: AmayaSoft.CoreFramework.AudioModule.Signals.SoundPlayersChannel, AudioModule,
+        Version=0.0.0.0, Culture=neutral, PublicKeyToken=null
+      objectReference: {fileID: 0}
+    - target: {fileID: 2555995875714846784, guid: bd750cfdedba64e45af92739c83ad883,
+        type: 3}
+      propertyPath: _genericSignalDesc
+      value: string
+      objectReference: {fileID: 0}
+    - target: {fileID: 2555995875714846784, guid: bd750cfdedba64e45af92739c83ad883,
+        type: 3}
+      propertyPath: _event.m_PersistentCalls.m_Calls.Array.data[0].m_Target
+      value: 
+      objectReference: {fileID: 0}
+    - target: {fileID: 2989488073066143767, guid: bd750cfdedba64e45af92739c83ad883,
+        type: 3}
+      propertyPath: m_Name
+      value: ConveyorCookieHintDragVizualization
+      objectReference: {fileID: 0}
+    - target: {fileID: 6843064826120289097, guid: bd750cfdedba64e45af92739c83ad883,
+        type: 3}
+      propertyPath: _signalDesc
+      value: AmayaSoft.CoreFramework.AudioModule.Signals.SoundPlayersChannel+StopSoundGroupSignal,
+        AudioModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null
+      objectReference: {fileID: 0}
+    - target: {fileID: 6843064826120289097, guid: bd750cfdedba64e45af92739c83ad883,
+        type: 3}
+      propertyPath: _channelDesc
+      value: AmayaSoft.CoreFramework.AudioModule.Signals.SoundPlayersChannel, AudioModule,
+        Version=0.0.0.0, Culture=neutral, PublicKeyToken=null
+      objectReference: {fileID: 0}
+    - target: {fileID: 8307248994438019642, guid: bd750cfdedba64e45af92739c83ad883,
+        type: 3}
+      propertyPath: m_RootOrder
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8307248994438019642, guid: bd750cfdedba64e45af92739c83ad883,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8307248994438019642, guid: bd750cfdedba64e45af92739c83ad883,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8307248994438019642, guid: bd750cfdedba64e45af92739c83ad883,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8307248994438019642, guid: bd750cfdedba64e45af92739c83ad883,
+        type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 8307248994438019642, guid: bd750cfdedba64e45af92739c83ad883,
+        type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8307248994438019642, guid: bd750cfdedba64e45af92739c83ad883,
+        type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8307248994438019642, guid: bd750cfdedba64e45af92739c83ad883,
+        type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8307248994438019642, guid: bd750cfdedba64e45af92739c83ad883,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8307248994438019642, guid: bd750cfdedba64e45af92739c83ad883,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8307248994438019642, guid: bd750cfdedba64e45af92739c83ad883,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    m_RemovedComponents:
+    - {fileID: 7544125102976831232, guid: bd750cfdedba64e45af92739c83ad883, type: 3}
+    - {fileID: 3924792111159316608, guid: bd750cfdedba64e45af92739c83ad883, type: 3}
+    - {fileID: 1985547469205290414, guid: bd750cfdedba64e45af92739c83ad883, type: 3}
+    - {fileID: 6941006656434038138, guid: bd750cfdedba64e45af92739c83ad883, type: 3}
+    - {fileID: 3492841176738117121, guid: bd750cfdedba64e45af92739c83ad883, type: 3}
+    - {fileID: 7197822116352889232, guid: bd750cfdedba64e45af92739c83ad883, type: 3}
+    - {fileID: 565588807601774945, guid: bd750cfdedba64e45af92739c83ad883, type: 3}
+    - {fileID: 886474504365586910, guid: bd750cfdedba64e45af92739c83ad883, type: 3}
+    - {fileID: 533946757414815790, guid: bd750cfdedba64e45af92739c83ad883, type: 3}
+    - {fileID: 4010224826441677421, guid: bd750cfdedba64e45af92739c83ad883, type: 3}
+    - {fileID: 8629352353700066341, guid: bd750cfdedba64e45af92739c83ad883, type: 3}
+    - {fileID: 6843064826120289097, guid: bd750cfdedba64e45af92739c83ad883, type: 3}
+    - {fileID: 688838439586845473, guid: bd750cfdedba64e45af92739c83ad883, type: 3}
+    - {fileID: 443181951482229286, guid: bd750cfdedba64e45af92739c83ad883, type: 3}
+    - {fileID: 9117611627643808114, guid: bd750cfdedba64e45af92739c83ad883, type: 3}
+    - {fileID: 2426162604468435996, guid: bd750cfdedba64e45af92739c83ad883, type: 3}
+    - {fileID: 4886947789220625368, guid: bd750cfdedba64e45af92739c83ad883, type: 3}
+    - {fileID: 9165848540461615327, guid: bd750cfdedba64e45af92739c83ad883, type: 3}
+    - {fileID: 4042652108765257672, guid: bd750cfdedba64e45af92739c83ad883, type: 3}
+    - {fileID: 8046580207192635018, guid: bd750cfdedba64e45af92739c83ad883, type: 3}
+    - {fileID: 3421752273783824418, guid: bd750cfdedba64e45af92739c83ad883, type: 3}
+    - {fileID: 3536530657052218513, guid: bd750cfdedba64e45af92739c83ad883, type: 3}
+    - {fileID: 2555995875714846784, guid: bd750cfdedba64e45af92739c83ad883, type: 3}
+  m_SourcePrefab: {fileID: 100100000, guid: bd750cfdedba64e45af92739c83ad883, type: 3}
